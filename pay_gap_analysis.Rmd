@@ -8,7 +8,7 @@ output:
 ---
 
 
-The following report is a template for conducting and presenting Gender Pay-Gap Analysis in an organization, such as a company or government agency.  This report will address the following questions:
+The following report is a template for conducting and presenting a snap shot Gender Pay-Gap Analysis in an organization.  This report does not address changes overtime, which is an important consideration for understanding the scope of the problems and evaluating any interventions.  This report will address the following questions:
 *Is there a significant difference in income between men and women in this organization? 
 *Does the difference vary depending on other factors?
 
@@ -54,6 +54,9 @@ data <- read.csv("./sample_payroll_data2.csv")
 # Data Cleaning and Prep.
 #############################
 
+#Modify the levels in the Gender column
+levels(data$gender) = c('Female', 'Male')
+
 #Convert disabilty and veteran columns from numeric to factor
 data$disability = as.factor(data$disability)
 data$veteran = as.factor(data$veteran)
@@ -87,20 +90,23 @@ data$male <- ifelse(data$gender == "Male", 1, 0) # Male = 1, Female = 0.
 
 ###Gender Pay Gap
 
-The following `r format(max(data$Date), format = '%Y')` gender pay gap report explores the base pay for our `r nrow(data)` staff may receive by gender, seeking to expose any imbalance. We will use report results to assess;
+The following `r format(max(data$Date), format = '%Y')` gender pay gap report explores the base pay for our `r nrow(data)` staff may receive by gender and other factors, seeking to expose any imbalance. We will use report results to assess;
 
     levels of gender equality in our workplace
     balance of male and female employees at different levels
-    and how effectively talent is being maximised and rewarded. 
+    and how effectively talent is being maximised and rewarded.
 
 
-Unlike equal pay, which refers to paying a man and a woman the same amount
-for the same, or similar work, a pay gap is the difference in average pay
-between men and women in an organisation. It is the result of gender or ethnic
-imbalance — having more women in junior roles or fewer women in senior roles,
-relative to men. This means having a pay gap is likely to persist until organisations
-have fair representation of men, women and ethnic minorities at every level —
+Unlike equal pay, which refers to paying a man and a woman the same amount for the same, or similar work, a pay gap is the difference in average pay between men and women in an organisation. It is the result of gender or ethnic imbalance — having more women in junior roles or fewer women in senior roles, relative to men. This means having a pay gap is likely to persist until organisations have fair representation of men, women and ethnic minorities at every level —
 something we are passionate about addressing.  Steps will be taken, where possible, to minimise or readdress any identified inequities going forward.
+
+#Gender Balance
+```{r}
+ggplot(data, aes(gender)) +
+  geom_bar() +
+  labs(title = "Employees by Gender") +
+  labs(x = "", y = "Count")
+```
 
 
 ```{r}
@@ -109,16 +115,13 @@ something we are passionate about addressing.  Steps will be taken, where possib
 #############################
 
 # Create an overall table of summary statistics for the data.
-summary(data)
+#summary(data)
 
 # Base pay summary stats.
 summary_base = tapply(data$basePay, data$gender, summary)
 
 # Total pay summary stats.
 summary_total = tapply(data$totalPay, data$gender, summary)
-
-# Bonus summary stats.
-summary_bonus = tapply(data$bonus, data$gender, summary)
 
 # Performance evaluations summary stats. 
 summary_perf = tapply(data$perfEval, data$gender, summary)
@@ -133,6 +136,34 @@ summary_job <- summarise(summary_job, meanTotalPay = mean(totalPay, na.rm = TRUE
 ```
 ## Gender Pay Gap Summary
 
-Based on the Government’s methodology, EY’s median gender pay gap is 14.8%
-and we estimate that this figure has improved by 10% from our calculation in 2012.
-EY’s median ethnicity pay gap for the UK is 9.8%.
+For the past year the median annual pay for male employees was `r paste('$',summary_base$M[3], sep = '')` whereas for female employees it was `r paste('$',summary_base$F[3], sep = '')`, which results in a median gender pay gap of `r round((summary_base$M[3]-summary_base$F[3])/summary_base$F[3]*100,2)`%.
+
+```{r}
+ggplot(data = data, aes(colour = gender)) + 
+  geom_histogram(data = data[data$gender == 'Female',], aes(basePay), fill = "red", alpha = 0.4) +
+  geom_vline(xintercept = as.integer(summary_base$F[3]), size = 1, colour = "red", linetype = "dashed", alpha = 0.8) +
+
+  geom_histogram(data = data[data$gender == 'Male',], aes(basePay), fill = "yellow", alpha = 0.4) +
+  geom_vline(xintercept = as.integer(summary_base$M[3]), size = 1, colour = "yellow", linetype = "dashed", alpha = 0.8) +
+  geom_text(aes(x=as.integer(summary_base$M[3])+3000, label="Median Male Annual Salary", y=50), colour="darkgray", angle=90, text=element_text(size=11)) +
+  geom_text(aes(x=as.integer(summary_base$F[3])-4000, label="Median Female Annual Salary", y=50), colour="darkgray", angle=90, text=element_text(size=11)) +
+  scale_colour_manual(name="Gender", values=c("red","yellow"), labels=c("Female","Male")) +
+  labs(title="Histogram of Base Pay") +
+  labs(x="Annual Salary in USD", y="Count")
+```
+
+Over the same time period the median total pay, which includes bonues, for male employees was `r paste('$',summary_total$M[3], sep = '')` whereas for female employees it was `r paste('$',summary_total$F[3], sep = '')`, which results in a median gender pay gap of `r round((summary_total$M[3]-summary_total$F[3])/summary_total$F[3]*100,2)`%.
+
+```{r}
+ggplot(data = data, aes(colour = gender)) + 
+  geom_histogram(data = data[data$gender == 'Female',], aes(totalPay), fill = "red", alpha = 0.4) +
+  geom_vline(xintercept = as.integer(summary_total$F[3]), size = 1, colour = "red", linetype = "dashed", alpha = 0.8) +
+
+  geom_histogram(data = data[data$gender == 'Male',], aes(totalPay), fill = "yellow", alpha = 0.4) +
+  geom_vline(xintercept = as.integer(summary_total$M[3]), size = 1, colour = "yellow", linetype = "dashed", alpha = 0.8) +
+  geom_text(aes(x=as.integer(summary_total$M[3])+3000, label="Median Male Total Salary", y=50), colour="darkgray", angle=90, text=element_text(size=11)) +
+  geom_text(aes(x=as.integer(summary_total$F[3])-4000, label="Median Female Total Salary", y=50), colour="darkgray", angle=90, text=element_text(size=11)) +
+  scale_colour_manual(name="Gender", values=c("red","yellow"), labels=c("Female","Male")) +
+  labs(title="Histogram of Total Pay") +
+  labs(x="Annual Salary in USD", y="Count")
+```
