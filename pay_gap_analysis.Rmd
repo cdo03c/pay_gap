@@ -1,6 +1,6 @@
 ---
 title: "Sample Pay Gap Analysis in R"
-author: "Created by cdo03c GitHub: https://github.com/cdo03c"
+author: "Created by cdo03c  GitHub: https://github.com/cdo03c"
 date: 'Produced in January 2018'
 output:
   html_document:
@@ -9,8 +9,10 @@ output:
 
 
 The following report is a template for conducting and presenting Gender Pay-Gap Analysis in an organization, such as a company or government agency.  This report will address the following questions:
-Is there a significant difference in income between men and women in this organization? 
-Does the difference vary depending on other factors?
+*Is there a significant difference in income between men and women in this organization? 
+*Does the difference vary depending on other factors?
+
+The sample data used to generate this report is a heavily modified combination of two sample data sets provided by Glassdoor.com and the Workplace Equality Government Agency (WEGA) of Australia for conducting gender pay gap analysis.  This data structure is highly recommended as the minimum features that should be considered in a gender pay gap analysis, but may not reflect the specific structure of various organization.  For more information about the data and its structure, please consult the ReadMe file for this project: https://github.com/cdo03c/pay_gap/blob/master/README.md.
 
 ```{r global_options, include=FALSE}
 # Clear workspace
@@ -44,29 +46,7 @@ if(!file.exists("./sample_payroll_data2.csv")){
 data <- read.csv("./sample_payroll_data2.csv")
 ```
 
-###Gender Pay Gap
 
-The following gender pay gap report explores the base pay for our `r nrow(data)` staff may receive by gender, seeking to expose any imbalance. We will use report results to assess;
-
-    levels of gender equality in our workplace
-    balance of male and female employees at different levels
-    and how effectively talent is being maximised and rewarded. 
-
-
-Unlike equal pay, which refers to paying a man and a woman the same amount
-for the same, or similar work, a pay gap is the difference in average pay
-between men and women in an organisation. It is the result of gender or ethnic
-imbalance — having more women in junior roles or fewer women in senior roles,
-relative to men. This means having a pay gap is likely to persist until organisations
-have fair representation of men, women and ethnic minorities at every level —
-something we are passionate about addressing.  Steps will be taken, where possible, to minimise or readdress any identified inequities going forward.
-
-
-## Gender Pay Gap Summary
-
-Based on the Government’s methodology, EY’s median gender pay gap is 14.8%
-and we estimate that this figure has improved by 10% from our calculation in 2012.
-EY’s median ethnicity pay gap for the UK is 9.8%.
 
 
 ```{r, echo=FALSE}
@@ -74,11 +54,12 @@ EY’s median ethnicity pay gap for the UK is 9.8%.
 # Data Cleaning and Prep.
 #############################
 
-
-
 #Convert disabilty and veteran columns from numeric to factor
 data$disability = as.factor(data$disability)
 data$veteran = as.factor(data$veteran)
+
+#Convert the Date column to a date type
+data$Date = as.Date(data$Date, format = )
 
 #Remove any columns consisting only of NAs
 data <- data[,colSums(is.na(data))<nrow(data)]
@@ -102,10 +83,25 @@ data$log_bonus <- log(data$bonus + 1, base = exp(1)) # Incentive pay. Add 1 to a
 # Create gender dummies (male = 1, female = 0. 
 data$male <- ifelse(data$gender == "Male", 1, 0) # Male = 1, Female = 0.
 
-# Check the structure of the imported data.
-str(data)
-
 ```
+
+###Gender Pay Gap
+
+The following `r format(max(data$Date), format = '%Y')` gender pay gap report explores the base pay for our `r nrow(data)` staff may receive by gender, seeking to expose any imbalance. We will use report results to assess;
+
+    levels of gender equality in our workplace
+    balance of male and female employees at different levels
+    and how effectively talent is being maximised and rewarded. 
+
+
+Unlike equal pay, which refers to paying a man and a woman the same amount
+for the same, or similar work, a pay gap is the difference in average pay
+between men and women in an organisation. It is the result of gender or ethnic
+imbalance — having more women in junior roles or fewer women in senior roles,
+relative to men. This means having a pay gap is likely to persist until organisations
+have fair representation of men, women and ethnic minorities at every level —
+something we are passionate about addressing.  Steps will be taken, where possible, to minimise or readdress any identified inequities going forward.
+
 
 ```{r}
 #############################
@@ -135,3 +131,8 @@ summary_unit <- summarise(summary_unit, meanTotalPay = mean(totalPay, na.rm = TR
 summary_job <- group_by(data, title, gender)
 summary_job <- summarise(summary_job, meanTotalPay = mean(totalPay, na.rm = TRUE), cnt = sum(!(is.na(title))) ) %>% arrange(desc(title, gender))
 ```
+## Gender Pay Gap Summary
+
+Based on the Government’s methodology, EY’s median gender pay gap is 14.8%
+and we estimate that this figure has improved by 10% from our calculation in 2012.
+EY’s median ethnicity pay gap for the UK is 9.8%.
