@@ -1,0 +1,1300 @@
+"id","Date","title","gender","organisationUnit","tenure","employmentStatus","basePay","bonus","education","age","perfEval","disability","raceEthnicity","veteran","dutyStation","supervisor"
+2,2017-01-28,"CIO","M","Executive",5,"FT",2e+05,30000,"Masters",42,3,0,"white",1,NA,NA
+3,2017-01-28,"COO","M","Executive",4,"FT",2e+05,30000,"College",48,2,1,"asian",0,NA,NA
+4,2017-01-28,"CFO","M","Executive",3,"FT",178000,8000,"Masters",42,4,0,"african american",0,NA,NA
+5,2017-01-28,"Director Public Affairs","F","Executive",5,"FT",180000,8000,"College",48,3,0,"white",1,NA,NA
+6,2017-01-28,"Director HR","F","Executive",6,"FT",180000,8000,"PhD",40,4,0,"white",0,NA,NA
+7,2017-01-28,"Director Mktg","M","Executive",2,"FT",170000,20000,"Masters",42,3,0,"white",0,NA,NA
+8,2017-01-28,"IT Ops Mgr","M","IT",1,"FT",150000,4000,"College",48,4,0,"white",0,NA,NA
+9,2017-01-28,"IT Services Mgr","M","IT",4,"FT",150000,4000,"Masters",42,3,0,"white",0,NA,NA
+10,2017-01-28,"Call centre operations manager","M","Contact centre",2,"FT",120000,3500,"College",48,3,0,"white",0,NA,NA
+11,2017-01-28,"Internal Ops Mgr","M","Operations",4,"FT",146000,3500,"Masters",42,4,0,"white",0,NA,NA
+12,2017-01-28,"Accounting Mgr","F","Finance",4,"FT",141000,3000,"College",48,2,0,"white",0,NA,NA
+13,2017-01-28,"Compliance Mgr","F","Finance",6,"FT",138000,2800,"College",48,4,0,"white",0,NA,NA
+14,2017-01-28,"Legal Mgr","F","Operations",6,"PT",135000,2900,"College",48,3,0,"white",0,NA,NA
+15,2017-01-28,"Org Devlt Mgr","F","Human resources",2,"FT",140000,3000,"College",48,4,0,"white",0,NA,NA
+16,2017-01-28,"Sales Mgr","M","Sales",5,"FT",160000,10000,"Masters",42,5,0,"white",0,NA,NA
+17,2017-01-28,"Bus Devlt Mgr","M","Operations",2,"FT",160000,7000,"College",48,4,1,"white",0,NA,NA
+18,2017-01-28,"Marketing manager","F","Marketing",4,"PT",85000,2000,"College",38,5,0,"white",0,NA,NA
+19,2017-01-28,"Senior project manager","F","Finance",3,"PT",91000,3000,"College",43,4,0,"white",0,NA,NA
+20,2017-01-28,"Call Centre manager","F","Contact centre",3,"FT",85000,1500,"High School",44,5,1,"white",0,NA,NA
+21,2017-01-28,"Audit manager","F","Finance",3,"FT",90000,2200,"Masters",33,5,1,"african american",0,NA,NA
+22,2017-01-28,"Manager - internal training","F","Human resources",4,"FT",83000,1500,"High School",45,5,1,"white",0,NA,NA
+23,2017-01-28,"Senior project manager","M","IT",1,"FT",92000,2300,"College",44,2,0,"white",0,NA,NA
+24,2017-01-28,"Senior project manager","M","IT",3,"FT",102000,2200,"Masters",37,1,0,"white",0,NA,NA
+25,2017-01-28,"Senior project manager","M","Operations",2,"FT",95000,2000,"College",42,3,0,"white",0,NA,NA
+26,2017-01-28,"Senior account manager","M","Sales",1,"FT",90000,4500,"College",41,1,0,"white",0,NA,NA
+27,2017-01-28,"Senior account manager","M","Sales",3,"FT",95000,3000,"High School",48,4,0,"white",0,NA,NA
+28,2017-01-28,"Senior account manager","M","Sales",4,"FT",95000,3000,"College",42,1,0,"white",0,NA,NA
+29,2017-01-28,"Senior project manager","M","Operations",3,"FT",95000,3000,"College",42,4,0,"white",0,NA,NA
+30,2017-01-28,"Senior project manager","M","IT",3,"FT",94000,3500,"College",42,5,0,"african american",0,NA,NA
+31,2017-01-28,"Payroll manager","F","Finance",4,"FT",85000,2000,"College",38,2,0,"white",0,NA,NA
+32,2017-01-28,"Senior account manager","F","Sales",2,"FT",90000,3000,"College",41,3,0,"white",0,NA,NA
+33,2017-01-28,"Marketing manager","M","Marketing",2,"FT",87000,1500,"Masters",34,3,0,"white",0,NA,NA
+34,2017-01-28,"Senior account manager","M","Sales",4,"FT",86000,2200,"College",40,5,1,"white",0,NA,NA
+35,2017-01-28,"Senior project manager","M","IT",2,"FT",96000,3000,"College",42,1,0,"african american",0,NA,NA
+36,2017-01-28,"Senior project manager","M","IT",3,"FT",96000,3000,"College",42,1,0,"white",0,NA,NA
+37,2017-01-28,"Senior project manager","M","Operations",1,"FT",98000,2500,"Masters",34,3,0,"african american",1,NA,NA
+38,2017-01-28,"Senior account manager","M","Sales",1,"FT",98000,3200,"Masters",34,5,0,"african american",0,NA,NA
+39,2017-01-28,"Junior accountant","M","Finance",1,"PT",30000,0,"College",26,3,0,"white",0,NA,NA
+40,2017-01-28,"Junior accountant","F","Finance",1,"PT",30000,0,"College",26,2,0,"white",0,NA,NA
+41,2017-01-28,"Junior accountant","F","Finance",2,"PT",31000,0,"College",26,5,1,"asian",0,NA,NA
+42,2017-01-28,"Accountant","F","Finance",1,"PT",68000,0,"College",32,1,0,"white",0,NA,NA
+43,2017-01-28,"Accountant","F","Finance",4,"PT",67500,0,"College",32,2,0,"white",0,NA,NA
+44,2017-01-28,"Accountant","M","Finance",2,"FT",74000,1200,"College",34,3,0,"white",0,NA,NA
+45,2017-01-28,"Accountant","M","Finance",4,"FT",74000,1200,"College",34,5,0,"white",0,NA,NA
+46,2017-01-28,"Accountant","F","Finance",4,"FT",75000,1000,"Masters",30,5,0,"african american",0,NA,NA
+47,2017-01-28,"Accountant","F","Finance",6,"FT",75000,1000,"College",34,3,0,"other",0,NA,NA
+48,2017-01-28,"Senior Accountant","F","Finance",6,"FT",75000,1200,"College",34,2,0,"white",0,NA,NA
+49,2017-01-28,"Senior Accountant","M","Finance",2,"FT",77000,1000,"College",36,1,0,"white",0,NA,NA
+50,2017-01-28,"Senior Accountant","M","Finance",5,"FT",83000,1000,"Masters",33,1,0,"african american",0,NA,NA
+51,2017-01-28,"Human Resource Coordinator","F","Human resources",2,"FT",60000,1000,"College",32,3,0,"white",0,NA,NA
+52,2017-01-28,"Human Resource Advisor","F","Human resources",2,"FT",60000,1500,"Masters",29,3,0,"white",0,NA,NA
+53,2017-01-28,"Human Resource Assistant","M","Human resources",1,"FT",32000,0,"College",26,4,0,"white",0,NA,NA
+54,2017-01-28,"Systems Analyst","M","IT",4,"FT",83000,800,"Masters",33,3,1,"african american",0,NA,NA
+55,2017-01-28,"Systems Analyst","M","IT",2,"FT",75000,1200,"Masters",30,2,0,"white",0,NA,NA
+56,2017-01-28,"Systems Analyst","M","IT",3,"FT",80000,1500,"College",36,3,0,"asian",0,NA,NA
+57,2017-01-28,"Systems Analyst","M","IT",3,"FT",81000,1500,"Masters",32,3,0,"asian",0,NA,NA
+58,2017-01-28,"Systems Analyst","M","IT",2,"FT",80000,1000,"College",36,2,0,"white",1,NA,NA
+59,2017-01-28,"Systems Analyst","M","IT",2,"FT",80000,1200,"College",36,4,1,"asian",0,NA,NA
+60,2017-01-28,"Systems Analyst","M","IT",2,"FT",80000,1200,"College",36,4,0,"african american",0,NA,NA
+61,2017-01-28,"Systems Analyst","M","IT",3,"FT",79000,2000,"College",36,1,1,"african american",0,NA,NA
+62,2017-01-28,"Systems Analyst","M","IT",3,"FT",80000,1000,"College",36,2,0,"white",0,NA,NA
+63,2017-01-28,"Computer Engineer","M","IT",1,"FT",79000,0,"Masters",30,3,0,"african american",1,NA,NA
+64,2017-01-28,"Computer Engineer","M","IT",4,"FT",79000,0,"Masters",30,2,0,"white",0,NA,NA
+65,2017-01-28,"Computer Engineer","M","IT",2,"FT",80000,0,"College",36,3,0,"white",0,NA,NA
+66,2017-01-28,"Computer Engineer","M","IT",4,"FT",82000,0,"College",39,4,0,"white",0,NA,NA
+67,2017-01-28,"Computer Engineer","M","IT",4,"FT",82000,0,"College",39,1,0,"white",0,NA,NA
+68,2017-01-28,"Computer Engineer","M","IT",6,"FT",82000,800,"College",39,3,0,"white",0,NA,NA
+69,2017-01-28,"Computer Engineer","M","IT",6,"FT",82000,300,"College",39,3,0,"white",1,NA,NA
+70,2017-01-28,"Computer Engineer","M","IT",2,"FT",82000,1200,"Masters",33,2,0,"african american",0,NA,NA
+71,2017-01-28,"Marketing Coordinator","M","Marketing",5,"FT",62000,1000,"College",32,2,0,"white",0,NA,NA
+72,2017-01-28,"Marketing Coordinator","M","Marketing",2,"PT",67000,0,"High School",38,2,1,"asian",0,NA,NA
+73,2017-01-28,"Project coordinator","F","Contact centre",3,"PT",65000,0,"College",32,2,0,"white",1,NA,NA
+74,2017-01-28,"Project coordinator","F","Contact centre",2,"PT",62000,0,"College",32,3,0,"white",0,NA,NA
+75,2017-01-28,"Payroll clerk","F","Finance",2,"PT",50000,0,"College",29,1,0,"asian",0,NA,NA
+76,2017-01-28,"Project coordinator","F","IT",1,"PT",60000,0,"College",32,4,0,"white",0,NA,NA
+77,2017-01-28,"Project coordinator","F","IT",3,"FT",67000,1200,"College",32,2,0,"native american",0,NA,NA
+78,2017-01-28,"Project coordinator","F","IT",2,"FT",63000,1200,"College",32,3,0,"white",0,NA,NA
+79,2017-01-28,"Project coordinator","F","IT",6,"FT",75000,1000,"College",34,3,0,"white",0,NA,NA
+80,2017-01-28,"Project coordinator","F","IT",1,"FT",60000,1000,"College",32,1,0,"white",1,NA,NA
+81,2017-01-28,"Project coordinator","F","IT",3,"FT",67000,1200,"Masters",29,3,0,"white",0,NA,NA
+82,2017-01-28,"Project coordinator","F","IT",1,"FT",63000,1000,"College",32,2,0,"white",0,NA,NA
+83,2017-01-28,"Payroll clerk","F","Finance",2,"FT",52000,1000,"College",31,2,0,"white",0,NA,NA
+84,2017-01-28,"Database administrator","F","IT",1,"FT",35000,0,"College",26,3,1,"white",0,NA,NA
+85,2017-01-28,"Database administrator","F","IT",1,"FT",35000,0,"High School",28,4,0,"asian",0,NA,NA
+86,2017-01-28,"Database administrator","M","IT",1,"FT",35000,0,"College",26,4,0,"white",0,NA,NA
+87,2017-01-28,"Database administrator","M","IT",1,"FT",35000,0,"College",26,3,0,"white",0,NA,NA
+88,2017-01-28,"Database administrator","M","IT",1,"FT",35000,0,"College",26,4,0,"white",0,NA,NA
+89,2017-01-28,"Web developer","M","IT",5,"FT",80000,1500,"College",36,3,0,"white",0,NA,NA
+90,2017-01-28,"Web developer","M","IT",2,"FT",80000,1500,"College",36,5,0,"asian",0,NA,NA
+91,2017-01-28,"Web developer","M","IT",1,"FT",80000,1000,"College",36,2,1,"white",1,NA,NA
+92,2017-01-28,"Computer Engineer","M","IT",4,"FT",80000,1200,"College",36,4,1,"white",0,NA,NA
+93,2017-01-28,"Computer Engineer","M","IT",2,"FT",80000,1200,"Masters",30,3,1,"african american",0,NA,NA
+94,2017-01-28,"Computer Engineer","M","IT",5,"FT",80000,2000,"Masters",30,3,0,"white",0,NA,NA
+95,2017-01-28,"Computer Engineer","M","IT",2,"FT",80000,1000,"College",36,1,1,"white",0,NA,NA
+96,2017-01-28,"Computer Engineer","M","IT",1,"FT",80000,0,"College",36,5,0,"pacific islander",0,NA,NA
+97,2017-01-28,"Computer Engineer","M","IT",4,"FT",80000,0,"College",36,3,0,"white",0,NA,NA
+98,2017-01-28,"Computer Engineer","M","IT",2,"FT",82000,0,"PhD",31,3,1,"white",1,NA,NA
+99,2017-01-28,"Systems architech","M","IT",1,"FT",82000,0,"Masters",33,4,1,"white",0,NA,NA
+100,2017-01-28,"Systems architech","M","IT",2,"FT",82000,0,"College",39,1,0,"white",0,NA,NA
+101,2017-01-28,"Systems architech","M","IT",4,"FT",85000,0,"College",38,4,0,"white",0,NA,NA
+102,2017-01-28,"Systems architech","M","IT",4,"FT",85000,0,"Masters",33,5,0,"white",0,NA,NA
+103,2017-01-28,"Systems architech","M","IT",2,"FT",82000,0,"Masters",33,5,0,"white",0,NA,NA
+104,2017-01-28,"Systems architech","M","IT",3,"FT",80000,0,"College",36,4,0,"white",1,NA,NA
+105,2017-01-28,"Systems architech","M","IT",3,"PT",81000,0,"Masters",32,2,0,"white",0,NA,NA
+106,2017-01-28,"Software tester","F","IT",2,"PT",39000,0,"High School",29,5,0,"white",0,NA,NA
+107,2017-01-28,"Software tester","F","IT",2,"PT",39000,0,"High School",29,4,1,"african american",0,NA,NA
+108,2017-01-28,"Software tester","F","IT",2,"PT",39000,0,"College",26,4,0,"african american",1,NA,NA
+109,2017-01-28,"Software tester","F","IT",3,"PT",41000,0,"High School",29,3,0,"white",0,NA,NA
+110,2017-01-28,"Web developer","F","IT",1,"FT",74000,1200,"College",34,2,0,"white",0,NA,NA
+111,2017-01-28,"Database administrator","F","IT",4,"FT",42000,0,"College",27,3,0,"asian",0,NA,NA
+112,2017-01-28,"Database administrator","F","IT",2,"FT",37000,0,"High School",28,3,0,"african american",0,NA,NA
+113,2017-01-28,"Database administrator","F","IT",4,"FT",41000,0,"High School",29,3,1,"white",0,NA,NA
+114,2017-01-28,"Database administrator","F","IT",4,"FT",41000,0,"College",26,5,0,"white",0,NA,NA
+115,2017-01-28,"Database administrator","F","IT",6,"FT",43000,0,"Masters",29,2,1,"asian",0,NA,NA
+116,2017-01-28,"ICT support engineer","F","IT",6,"FT",77000,1000,"Masters",30,4,0,"white",0,NA,NA
+117,2017-01-28,"ICT support engineer","F","IT",2,"FT",80000,1000,"College",36,4,0,"african american",0,NA,NA
+118,2017-01-28,"ICT support engineer","F","IT",1,"FT",80000,1500,"Masters",30,3,1,"white",1,NA,NA
+119,2017-01-28,"ICT support engineer","M","IT",4,"FT",67000,1500,"College",32,4,0,"white",0,NA,NA
+120,2017-01-28,"ICT support engineer","M","IT",2,"FT",67000,800,"College",32,3,0,"white",0,NA,NA
+121,2017-01-28,"ICT support engineer","M","IT",4,"FT",75000,1200,"Masters",30,3,0,"white",0,NA,NA
+122,2017-01-28,"ICT support engineer","M","IT",4,"FT",80000,1500,"College",36,1,0,"white",0,NA,NA
+123,2017-01-28,"ICT support engineer","M","IT",6,"FT",80000,1500,"College",36,4,1,"white",0,NA,NA
+124,2017-01-28,"ICT support engineer","M","IT",6,"FT",80000,1000,"Masters",30,4,0,"african american",0,NA,NA
+125,2017-01-28,"ICT support engineer","M","IT",2,"FT",80000,1200,"College",36,5,0,"white",0,NA,NA
+126,2017-01-28,"ICT support engineer","M","IT",1,"FT",80000,1200,"College",36,3,1,"white",0,NA,NA
+127,2017-01-28,"ICT support engineer","M","IT",4,"FT",80000,2000,"College",36,2,0,"white",0,NA,NA
+128,2017-01-28,"Systems architech","M","IT",2,"FT",80000,0,"College",36,3,1,"white",0,NA,NA
+129,2017-01-28,"Systems architech","M","IT",4,"FT",80000,0,"Masters",30,2,0,"white",0,NA,NA
+130,2017-01-28,"Systems architech","M","IT",4,"FT",84000,0,"Masters",33,3,0,"african american",0,NA,NA
+131,2017-01-28,"Systems architech","M","IT",6,"FT",85000,0,"Masters",33,4,0,"white",0,NA,NA
+132,2017-01-28,"Systems architech","M","IT",6,"FT",82000,0,"College",39,3,0,"white",0,NA,NA
+133,2017-01-28,"Systems architech","M","IT",2,"FT",82000,0,"College",39,1,0,"white",0,NA,NA
+134,2017-01-28,"Systems architech","M","IT",3,"FT",82000,0,"College",39,3,0,"native american",0,NA,NA
+135,2017-01-28,"Business analyst","M","Operations",2,"FT",82000,300,"Masters",33,5,0,"white",0,NA,NA
+136,2017-01-28,"Business analyst","M","Operations",2,"FT",82000,1200,"Masters",33,2,0,"white",0,NA,NA
+137,2017-01-28,"Business analyst","M","Operations",1,"FT",80000,1000,"College",36,4,0,"white",0,NA,NA
+138,2017-01-28,"Business analyst","M","Operations",1,"PT",73000,300,"College",34,2,0,"white",0,NA,NA
+139,2017-01-28,"Business analyst","F","Operations",2,"PT",70000,200,"College",33,4,0,"african american",0,NA,NA
+140,2017-01-28,"Business analyst","F","Operations",4,"PT",73000,400,"College",34,3,0,"white",0,NA,NA
+141,2017-01-28,"Business analyst","F","Operations",1,"PT",71000,750,"College",34,2,0,"white",0,NA,NA
+142,2017-01-28,"Business analyst","F","Operations",2,"PT",72000,650,"College",34,2,1,"white",0,NA,NA
+143,2017-01-28,"Safety Officer","F","Operations",1,"FT",74000,0,"High School",37,2,0,"white",0,NA,NA
+144,2017-01-28,"Project coordinator","F","IT",6,"FT",74000,0,"College",34,2,0,"white",0,NA,NA
+145,2017-01-28,"Project coordinator","M","IT",4,"FT",75000,0,"Masters",30,3,0,"african american",0,NA,NA
+146,2017-01-28,"UX designer","F","IT",4,"FT",75000,0,"Masters",30,4,0,"white",0,NA,NA
+147,2017-01-28,"UX designer","M","IT",4,"FT",75000,0,"College",34,1,0,"white",1,NA,NA
+148,2017-01-28,"UX designer","M","IT",6,"FT",77000,0,"College",36,2,0,"white",1,NA,NA
+149,2017-01-28,"Senior UX designer","M","IT",6,"FT",77000,0,"College",36,3,0,"asian",0,NA,NA
+150,2017-01-28,"Senior UX designer","M","IT",2,"FT",80000,0,"College",36,4,0,"white",0,NA,NA
+151,2017-01-28,"Senior UX designer","M","IT",3,"FT",80000,0,"College",36,3,0,"african american",0,NA,NA
+152,2017-01-28,"Developer","M","IT",3,"FT",67000,0,"College",32,3,0,"white",0,NA,NA
+153,2017-01-28,"Developer","M","IT",1,"FT",67000,0,"College",32,3,0,"white",0,NA,NA
+154,2017-01-28,"Developer","F","IT",4,"FT",75000,0,"College",34,5,0,"white",0,NA,NA
+155,2017-01-28,"Developer","M","IT",2,"FT",80000,0,"Masters",30,4,1,"white",0,NA,NA
+156,2017-01-28,"Developer","M","IT",4,"FT",80000,0,"College",36,3,1,"white",0,NA,NA
+157,2017-01-28,"Developer","M","IT",4,"FT",80000,0,"Masters",30,3,0,"white",0,NA,NA
+158,2017-01-28,"Developer","M","IT",6,"FT",80000,0,"Masters",30,3,1,"white",0,NA,NA
+159,2017-01-28,"Developer","M","IT",6,"FT",80000,0,"College",36,4,0,"white",0,NA,NA
+160,2017-01-28,"Developer","M","IT",2,"FT",80000,0,"Masters",30,3,1,"white",0,NA,NA
+161,2017-01-28,"Developer","M","IT",1,"FT",80000,0,"College",36,3,0,"white",0,NA,NA
+162,2017-01-28,"Developer","M","IT",4,"FT",80000,0,"Masters",30,2,0,"white",0,NA,NA
+163,2017-01-28,"Developer","M","IT",2,"FT",80000,0,"Masters",30,2,0,"white",0,NA,NA
+164,2017-01-28,"Developer","M","IT",4,"FT",82000,0,"Masters",33,4,1,"white",0,NA,NA
+165,2017-01-28,"Developer","M","IT",4,"FT",82000,0,"Masters",33,3,0,"white",0,NA,NA
+166,2017-01-28,"Developer","M","IT",6,"FT",82000,0,"PhD",31,3,0,"white",0,NA,NA
+167,2017-01-28,"Developer","M","IT",6,"FT",82000,0,"Masters",33,4,0,"white",0,NA,NA
+168,2017-01-28,"Developer","M","IT",2,"FT",82000,0,"PhD",31,3,0,"white",0,NA,NA
+169,2017-01-28,"Developer","M","IT",1,"FT",82000,0,"College",39,1,0,"white",0,NA,NA
+170,2017-01-28,"Developer","M","IT",4,"FT",80000,0,"College",36,4,0,"african american",0,NA,NA
+171,2017-01-28,"Support technician","M","Operations",2,"FT",76000,0,"Masters",30,4,1,"white",0,NA,NA
+172,2017-01-28,"Support technician","M","Operations",4,"FT",75000,0,"College",34,3,1,"white",0,NA,NA
+173,2017-01-28,"Support technician","M","Operations",4,"FT",76000,0,"Masters",30,2,0,"white",0,NA,NA
+174,2017-01-28,"Support technician","M","Operations",6,"FT",79500,0,"College",36,3,1,"white",0,NA,NA
+175,2017-01-28,"Support technician","M","Operations",6,"FT",78000,0,"College",36,3,0,"white",0,NA,NA
+176,2017-01-28,"Support technician","M","Operations",2,"FT",72000,0,"College",34,4,0,"white",0,NA,NA
+177,2017-01-28,"Technical specialists","M","Operations",6,"FT",70000,0,"Masters",29,3,0,"white",0,NA,NA
+178,2017-01-28,"Technical specialists","M","Operations",6,"FT",71000,0,"Masters",30,1,0,"white",0,NA,NA
+179,2017-01-28,"Technical specialists","M","Operations",2,"FT",72500,0,"College",34,1,0,"white",0,NA,NA
+180,2017-01-28,"Technical specialists","M","Operations",1,"FT",70000,0,"College",33,3,1,"african american",0,NA,NA
+181,2017-01-28,"Technical specialists","M","Operations",4,"FT",73000,0,"College",34,3,0,"white",0,NA,NA
+182,2017-01-28,"Solutions consultant","F","Sales",2,"PT",70000,7000,"Masters",29,2,0,"white",1,NA,NA
+183,2017-01-28,"Solutions consultant","F","Sales",4,"PT",72000,7200,"College",34,3,0,"white",0,NA,NA
+184,2017-01-28,"Solutions consultant","M","Sales",4,"FT",74000,7400,"College",34,3,0,"white",0,NA,NA
+185,2017-01-28,"Solutions consultant","M","Sales",6,"FT",75000,7500,"College",34,4,0,"white",0,NA,NA
+186,2017-01-28,"Solutions consultant","F","Sales",6,"FT",80000,8000,"College",36,4,0,"white",0,NA,NA
+187,2017-01-28,"Solutions consultant","F","Sales",2,"FT",76000,7600,"College",35,3,0,"white",0,NA,NA
+188,2017-01-28,"Solutions consultant","M","Sales",1,"FT",70000,7000,"College",33,4,0,"white",1,NA,NA
+189,2017-01-28,"Solutions consultant","M","Sales",6,"FT",80000,8000,"Masters",30,3,0,"white",0,NA,NA
+190,2017-01-28,"Solutions consultant","M","Sales",6,"FT",75000,7500,"College",34,4,0,"other",0,NA,NA
+191,2017-01-28,"Solutions consultant","F","Sales",2,"FT",73000,7300,"College",34,5,0,"african american",0,NA,NA
+192,2017-01-28,"Solutions consultant","F","Sales",1,"FT",70000,7000,"Masters",29,3,0,"white",0,NA,NA
+193,2017-01-28,"Solutions consultant","M","Sales",4,"FT",80000,8000,"College",36,3,1,"white",0,NA,NA
+194,2017-01-28,"Solutions consultant","M","Sales",2,"FT",80000,8000,"College",36,1,0,"asian",0,NA,NA
+195,2017-01-28,"Solutions consultant","F","Sales",4,"FT",78000,7800,"College",36,4,0,"white",0,NA,NA
+196,2017-01-28,"Solutions consultant","F","Sales",4,"FT",77500,7750,"Masters",30,2,0,"white",0,NA,NA
+197,2017-01-28,"Solutions consultant","M","Sales",6,"FT",80000,8000,"College",36,2,0,"white",0,NA,NA
+198,2017-01-28,"Solutions consultant","M","Sales",6,"FT",74000,7400,"College",34,2,0,"white",0,NA,NA
+199,2017-01-28,"Solutions consultant","F","Sales",2,"FT",75000,7500,"Masters",30,1,1,"asian",0,NA,NA
+200,2017-01-28,"Solutions consultant","F","Sales",1,"FT",70000,7000,"College",33,3,0,"white",0,NA,NA
+201,2017-01-28,"Solutions consultant","M","Sales",6,"FT",77000,7700,"College",36,3,0,"white",1,NA,NA
+202,2017-01-28,"Solutions consultant","M","Sales",6,"FT",67000,6700,"College",32,3,0,"white",0,NA,NA
+203,2017-01-28,"Solutions consultant","F","Sales",2,"FT",67000,6700,"College",32,3,0,"other",1,NA,NA
+204,2017-01-28,"Solutions consultant","F","Sales",1,"FT",70000,7000,"College",33,4,0,"white",1,NA,NA
+205,2017-01-28,"Solutions consultant","M","Sales",4,"FT",74000,7400,"College",34,5,1,"white",0,NA,NA
+206,2017-01-28,"Solutions consultant","M","Sales",2,"FT",75000,7500,"Masters",30,3,0,"white",0,NA,NA
+207,2017-01-28,"Solutions consultant","M","Sales",4,"FT",75000,7500,"College",34,3,0,"white",1,NA,NA
+208,2017-01-28,"Solutions consultant","F","Sales",4,"FT",77000,7700,"College",36,2,1,"white",0,NA,NA
+209,2017-01-28,"Solutions consultant","F","Sales",2,"FT",67000,6700,"College",32,2,0,"white",0,NA,NA
+210,2017-01-28,"Solutions consultant","M","Sales",2,"FT",67000,6700,"College",32,1,0,"white",0,NA,NA
+211,2017-01-28,"Solutions consultant","M","Sales",2,"FT",80000,8000,"College",36,3,0,"white",0,NA,NA
+212,2017-01-28,"Solutions consultant","F","Sales",6,"FT",80000,8000,"Masters",30,3,0,"white",0,NA,NA
+213,2017-01-28,"Solutions consultant","M","Sales",2,"FT",80000,8000,"College",36,3,0,"white",0,NA,NA
+214,2017-01-28,"Mail Sorter","M","Operations",1,"PT",30000,0,"High School",28,4,0,"white",1,NA,NA
+215,2017-01-28,"Project administrator","M","Operations",2,"PT",45000,0,"College",29,4,0,"african american",0,NA,NA
+216,2017-01-28,"Project administrator","M","Operations",2,"PT",45000,0,"College",29,2,0,"white",0,NA,NA
+217,2017-01-28,"Project administrator","M","Operations",2,"PT",45000,0,"College",29,3,1,"white",0,NA,NA
+218,2017-01-28,"PA","F","Sales",3,"FT",37000,0,"College",26,1,0,"white",0,NA,NA
+219,2017-01-28,"PA","F","Sales",4,"FT",40000,0,"College",27,5,0,"white",0,NA,NA
+220,2017-01-28,"PA","F","IT",2,"FT",55000,0,"College",30,3,0,"african american",0,NA,NA
+221,2017-01-28,"PA","F","Marketing",2,"FT",56000,0,"College",30,2,0,"white",0,NA,NA
+222,2017-01-28,"PA","F","Sales",2,"FT",49000,0,"College",29,3,0,"white",0,NA,NA
+223,2017-01-28,"PA","F","Sales",2,"FT",40000,0,"College",27,3,0,"white",0,NA,NA
+224,2017-01-28,"PA","F","IT",3,"FT",40000,0,"College",27,4,0,"african american",0,NA,NA
+225,2017-01-28,"PA","F","IT",4,"FT",51000,0,"College",30,3,1,"white",0,NA,NA
+226,2017-01-28,"PA","F","Operations",2,"FT",42000,0,"College",27,1,0,"african american",0,NA,NA
+227,2017-01-28,"PA","F","Finance",2,"FT",45000,0,"College",29,3,1,"white",0,NA,NA
+228,2017-01-28,"Receptionist","F","Operations",2,"FT",40000,0,"College",27,3,1,"african american",0,NA,NA
+229,2017-01-28,"Data entry clerk","F","Operations",1,"FT",30000,0,"High School",28,4,0,"white",0,NA,NA
+230,2017-01-28,"Data entry clerk","F","Operations",1,"PT",30000,0,"High School",28,3,0,"white",0,NA,NA
+231,2017-01-28,"Data entry clerk","F","Operations",1,"PT",30000,0,"High School",28,3,0,"white",0,NA,NA
+232,2017-01-28,"Data entry clerk","F","Operations",1,"PT",30000,0,"College",26,3,0,"white",0,NA,NA
+233,2017-01-28,"Data entry clerk","F","Operations",1,"PT",30000,0,"High School",28,3,0,"white",0,NA,NA
+234,2017-01-28,"Data entry clerk","F","Operations",1,"PT",30000,0,"College",26,3,0,"white",0,NA,NA
+235,2017-01-28,"Data entry clerk","F","Operations",1,"PT",30000,0,"College",26,3,0,"white",0,NA,NA
+236,2017-01-28,"Call centre information clerk","F","Contact centre",1,"PT",55000,0,"College",30,3,0,"asian",0,NA,NA
+237,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",42000,0,"College",27,1,0,"white",0,NA,NA
+238,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",40000,0,"High School",29,3,0,"white",0,NA,NA
+239,2017-01-28,"Call centre information clerk","F","Contact centre",3,"PT",38000,0,"High School",28,4,0,"white",0,NA,NA
+240,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",39000,0,"High School",29,3,1,"white",0,NA,NA
+241,2017-01-28,"Call centre information clerk","F","Contact centre",1,"PT",42000,0,"High School",29,2,0,"white",0,NA,NA
+242,2017-01-28,"Call centre information clerk","F","Contact centre",1,"PT",42000,0,"College",27,5,0,"white",0,NA,NA
+243,2017-01-28,"PA","M","IT",2,"PT",45000,0,"College",29,3,0,"white",0,NA,NA
+244,2017-01-28,"PA","M","Operations",1,"PT",45000,0,"College",29,4,1,"white",0,NA,NA
+245,2017-01-28,"PA","M","Operations",2,"PT",45000,0,"College",29,4,0,"white",0,NA,NA
+246,2017-01-28,"PA","M","Operations",4,"PT",45000,0,"College",29,2,0,"white",0,NA,NA
+247,2017-01-28,"EA","F","Operations",4,"FT",55000,0,"College",30,3,0,"asian",0,NA,NA
+248,2017-01-28,"EA","F","Operations",6,"FT",55000,0,"College",30,3,0,"white",0,NA,NA
+249,2017-01-28,"EA","F","Operations",6,"FT",55000,0,"High School",33,4,0,"white",0,NA,NA
+250,2017-01-28,"EA","F","Operations",2,"FT",56000,0,"College",30,2,1,"white",0,NA,NA
+251,2017-01-28,"EA","F","Operations",5,"FT",53000,0,"High School",33,1,0,"white",0,NA,NA
+252,2017-01-28,"EA","F","Operations",6,"FT",52000,0,"College",31,4,0,"white",1,NA,NA
+253,2017-01-28,"EA","F","Operations",6,"FT",55000,0,"Masters",28,3,0,"native american",0,NA,NA
+254,2017-01-28,"PA","F","Sales",3,"FT",51000,0,"College",30,3,0,"african american",0,NA,NA
+255,2017-01-28,"PA","F","IT",2,"FT",42000,0,"College",27,4,0,"white",0,NA,NA
+256,2017-01-28,"PA","F","IT",3,"FT",45000,0,"College",29,3,1,"white",0,NA,NA
+257,2017-01-28,"PA","F","Finance",1,"FT",46000,0,"College",29,3,0,"white",0,NA,NA
+258,2017-01-28,"PA","F","Sales",1,"FT",51000,0,"College",30,3,0,"white",0,NA,NA
+259,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",33750,0,"College",26,1,0,"white",0,NA,NA
+260,2017-01-28,"Call centre information clerk","F","Contact centre",1,"PT",40000,0,"High School",29,4,0,"white",0,NA,NA
+261,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",40000,0,"High School",29,2,0,"african american",1,NA,NA
+262,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",40000,0,"College",27,4,0,"white",0,NA,NA
+263,2017-01-28,"Call centre information clerk","F","Contact centre",3,"PT",42000,0,"College",27,3,0,"white",0,NA,NA
+264,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",52000,0,"College",31,4,0,"white",0,NA,NA
+265,2017-01-28,"Call centre information clerk","F","Contact centre",1,"PT",55000,0,"College",30,3,0,"white",0,NA,NA
+266,2017-01-28,"Call centre information clerk","F","Contact centre",1,"PT",42000,0,"College",27,4,0,"white",0,NA,NA
+267,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",40000,0,"High School",29,2,0,"white",0,NA,NA
+268,2017-01-28,"Call centre information clerk","F","Contact centre",1,"PT",38000,0,"High School",28,3,1,"asian",0,NA,NA
+269,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",39000,0,"High School",29,3,0,"white",0,NA,NA
+270,2017-01-28,"Call centre information clerk","F","Contact centre",2,"PT",42000,0,"College",27,5,0,"native american",0,NA,NA
+271,2017-01-28,"Call centre information clerk","F","Contact centre",3,"PT",42000,0,"College",27,4,1,"white",0,NA,NA
+272,2017-01-28,"Call centre information clerk","M","Contact centre",2,"PT",45000,0,"College",29,1,0,"white",0,NA,NA
+273,2017-01-28,"Call centre information clerk","M","Contact centre",1,"PT",45000,0,"College",29,3,0,"white",0,NA,NA
+274,2017-01-28,"Call centre information clerk","M","Contact centre",1,"PT",45000,0,"High School",30,3,1,"white",0,NA,NA
+275,2017-01-28,"Call centre information clerk","M","Contact centre",2,"PT",45000,0,"High School",30,3,0,"white",0,NA,NA
+276,2017-01-28,"Software tester","M","IT",2,"FT",33750,0,"High School",28,3,0,"white",0,NA,NA
+277,2017-01-28,"Software tester","M","IT",1,"FT",40000,0,"College",27,3,0,"white",1,NA,NA
+278,2017-01-28,"Software tester","M","IT",2,"FT",40000,0,"High School",29,3,0,"white",0,NA,NA
+279,2017-01-28,"Software tester","M","IT",2,"FT",40000,0,"College",27,2,0,"african american",0,NA,NA
+280,2017-01-28,"Software tester","F","IT",3,"FT",42000,0,"College",27,4,0,"white",0,NA,NA
+281,2017-01-28,"Software tester","F","IT",2,"FT",52000,0,"High School",33,2,0,"white",0,NA,NA
+282,2017-01-28,"Software tester","F","IT",3,"PT",55000,0,"High School",33,4,0,"white",0,NA,NA
+283,2017-01-28,"Software tester","F","IT",3,"PT",42000,0,"College",27,3,0,"african american",0,NA,NA
+284,2017-01-28,"Software tester","F","IT",3,"PT",40000,0,"College",27,3,0,"white",0,NA,NA
+285,2017-01-28,"Software tester","F","IT",4,"PT",38000,0,"High School",28,5,0,"white",0,NA,NA
+286,2017-01-28,"Software tester","F","IT",2,"FT",40000,0,"High School",29,2,0,"white",0,NA,NA
+287,2017-01-28,"Software tester","F","IT",1,"FT",40000,0,"College",27,1,0,"white",0,NA,NA
+288,2017-01-28,"Software tester","M","IT",2,"FT",42000,0,"High School",29,5,0,"white",0,NA,NA
+289,2017-01-28,"Software tester","M","IT",2,"FT",52000,0,"College",31,3,0,"white",0,NA,NA
+290,2017-01-28,"Software tester","M","IT",3,"FT",40000,0,"College",27,3,0,"white",0,NA,NA
+291,2017-01-28,"Software tester","M","IT",2,"FT",40000,0,"High School",29,4,0,"white",1,NA,NA
+292,2017-01-28,"Software tester","M","IT",1,"FT",42000,0,"High School",29,3,0,"white",0,NA,NA
+293,2017-01-28,"Software tester","M","IT",1,"FT",52000,0,"College",31,3,1,"white",0,NA,NA
+294,2017-01-28,"Software tester","M","IT",2,"FT",40000,0,"College",27,3,1,"white",0,NA,NA
+295,2017-01-28,"Software tester","M","IT",3,"FT",40000,0,"High School",29,4,1,"african american",0,NA,NA
+296,2017-01-28,"Software tester","F","IT",2,"FT",42000,0,"College",27,3,0,"native american",0,NA,NA
+297,2017-01-28,"Software tester","M","IT",1,"FT",40000,0,"High School",29,3,0,"white",1,NA,NA
+298,2017-01-28,"Software tester","M","IT",1,"FT",40000,0,"High School",29,2,1,"african american",0,NA,NA
+299,2017-01-28,"Software tester","M","IT",2,"FT",42000,0,"High School",29,3,0,"white",0,NA,NA
+300,2017-01-28,"Software tester","M","IT",1,"FT",52000,0,"College",31,3,0,"white",1,NA,NA
+301,2017-01-28,"Graphic Designer","F","Operations",1,"FT",42363,9938,"College",28,1,0,"pacific islander",0,NA,NA
+302,2017-01-28,"Software Engineer","M","Management",5,"FT",108476,11128,"College",47,3,0,"white",0,NA,NA
+303,2017-01-28,"Warehouse Associate","F","Administration",6,"FT",90208,9268,"High School",46,3,0,"african american",0,NA,NA
+304,2017-01-28,"Software Engineer","M","Sales",3,"FT",108080,10154,"Masters",39,1,0,"white",0,NA,NA
+305,2017-01-28,"Graphic Designer","M","Engineering",2,"FT",99464,9319,"Masters",35,3,0,"white",0,NA,NA
+306,2017-01-28,"IT","F","Operations",1,"FT",70890,10126,"Masters",30,4,1,"african american",0,NA,NA
+307,2017-01-28,"Graphic Designer","F","Sales",2,"FT",67585,10541,"College",32,3,1,"white",0,NA,NA
+308,2017-01-28,"Software Engineer","M","Engineering",4,"FT",97523,10240,"Masters",34,4,0,"asian",0,NA,NA
+309,2017-01-28,"Graphic Designer","F","Engineering",2,"FT",112976,9836,"College",47,3,0,"white",0,NA,NA
+310,2017-01-28,"Sales Associate","F","Engineering",6,"FT",106524,9941,"College",46,3,0,"african american",0,NA,NA
+311,2017-01-28,"Graphic Designer","M","Engineering",4,"FT",102261,10212,"Masters",38,2,0,"african american",0,NA,NA
+312,2017-01-28,"Driver","F","Management",6,"FT",62759,10124,"High School",36,5,0,"white",0,NA,NA
+313,2017-01-28,"Financial Analyst","F","Sales",2,"FT",84007,8990,"College",38,4,0,"white",0,NA,NA
+314,2017-01-28,"Warehouse Associate","F","Administration",1,"FT",86220,9583,"College",40,3,0,"african american",0,NA,NA
+315,2017-01-28,"Warehouse Associate","F","Operations",3,"FT",95584,9745,"College",42,2,0,"white",1,NA,NA
+316,2017-01-28,"Marketing Associate","F","Management",5,"FT",73357,10334,"College",34,1,0,"white",0,NA,NA
+317,2017-01-28,"Financial Analyst","F","Administration",6,"FT",88422,10768,"Masters",34,5,0,"white",0,NA,NA
+318,2017-01-28,"Warehouse Associate","F","Administration",4,"FT",99545,9949,"College",44,4,0,"white",0,NA,NA
+319,2017-01-28,"Sales Associate","M","Engineering",2,"FT",90386,9461,"College",41,1,0,"white",0,NA,NA
+320,2017-01-28,"Data Scientist","F","Engineering",5,"FT",92067,9838,"Masters",34,5,0,"white",1,NA,NA
+321,2017-01-28,"Warehouse Associate","M","Engineering",4,"FT",108446,9210,"College",47,3,0,"white",0,NA,NA
+322,2017-01-28,"Financial Analyst","M","Sales",6,"FT",83323,9329,"College",39,5,0,"white",0,NA,NA
+323,2017-01-28,"Warehouse Associate","M","Sales",2,"FT",85205,9792,"College",38,2,0,"asian",0,NA,NA
+324,2017-01-28,"Driver","F","Management",2,"FT",72038,9031,"College",34,3,0,"white",0,NA,NA
+325,2017-01-28,"Software Engineer","M","Engineering",2,"FT",132823,9625,"PhD",39,3,0,"african american",0,NA,NA
+326,2017-01-28,"Graphic Designer","F","Engineering",1,"FT",71182,10015,"College",34,3,0,"white",0,NA,NA
+327,2017-01-28,"Software Engineer","M","Administration",3,"FT",100305,9618,"Masters",37,3,0,"white",0,NA,NA
+328,2017-01-28,"Graphic Designer","M","Management",6,"FT",88566,9469,"Masters",33,1,0,"white",0,NA,NA
+329,2017-01-28,"Warehouse Associate","M","Engineering",6,"FT",104271,10177,"College",46,2,1,"white",0,NA,NA
+330,2017-01-28,"IT","F","Administration",5,"FT",112392,10504,"College",46,3,0,"white",0,NA,NA
+331,2017-01-28,"Software Engineer","M","Management",2,"FT",66359,10137,"Masters",29,5,0,"white",0,NA,NA
+332,2017-01-28,"Sales Associate","M","Management",4,"FT",103007,10512,"Masters",38,3,0,"white",0,NA,NA
+333,2017-01-28,"Marketing Associate","F","Operations",1,"FT",80306,9233,"Masters",30,3,0,"white",0,NA,NA
+334,2017-01-28,"Data Scientist","F","Engineering",5,"FT",74523,9972,"College",34,5,0,"asian",0,NA,NA
+335,2017-01-28,"Data Scientist","F","Management",5,"FT",113252,10139,"PhD",36,3,0,"white",0,NA,NA
+336,2017-01-28,"Software Engineer","M","Management",2,"FT",96040,10050,"Masters",35,2,0,"white",0,NA,NA
+337,2017-01-28,"Software Engineer","M","Management",4,"FT",91674,9780,"Masters",35,5,0,"asian",0,NA,NA
+338,2017-01-28,"Software Engineer","M","Operations",3,"FT",92928,9094,"College",42,4,0,"white",0,NA,NA
+339,2017-01-28,"IT","F","Management",6,"FT",84638,9409,"College",38,3,0,"white",0,NA,NA
+340,2017-01-28,"IT","M","Administration",6,"FT",78986,9023,"College",36,3,0,"white",1,NA,NA
+341,2017-01-28,"Data Scientist","M","Administration",2,"FT",96355,9784,"PhD",32,4,0,"white",0,NA,NA
+342,2017-01-28,"Data Scientist","M","Management",6,"FT",87121,8703,"PhD",31,3,0,"white",1,NA,NA
+343,2017-01-28,"Software Engineer","M","Sales",2,"FT",88724,8949,"Masters",32,1,0,"white",0,NA,NA
+344,2017-01-28,"Warehouse Associate","M","Engineering",1,"FT",58219,9868,"College",32,3,1,"white",0,NA,NA
+345,2017-01-28,"Software Engineer","M","Sales",2,"FT",119024,11293,"Masters",40,4,0,"white",0,NA,NA
+346,2017-01-28,"Software Engineer","M","Management",2,"FT",81503,9729,"Masters",33,3,1,"african american",0,NA,NA
+347,2017-01-28,"Data Scientist","F","Operations",5,"FT",70643,10033,"PhD",30,3,1,"white",0,NA,NA
+348,2017-01-28,"Graphic Designer","F","Sales",5,"FT",74167,10346,"College",34,4,0,"white",0,NA,NA
+349,2017-01-28,"Marketing Associate","M","Management",1,"FT",86886,9424,"College",40,4,0,"white",0,NA,NA
+350,2017-01-28,"IT","F","Sales",5,"FT",102120,10215,"Masters",37,3,0,"white",0,NA,NA
+351,2017-01-28,"Sales Associate","M","Operations",5,"FT",90780,9353,"Masters",34,3,0,"white",0,NA,NA
+352,2017-01-28,"Software Engineer","M","Operations",5,"FT",89474,9104,"Masters",32,2,0,"white",0,NA,NA
+353,2017-01-28,"Marketing Associate","F","Engineering",5,"FT",97376,9564,"College",42,3,0,"white",0,NA,NA
+354,2017-01-28,"Data Scientist","F","Sales",2,"FT",89415,9654,"Masters",32,3,0,"white",0,NA,NA
+355,2017-01-28,"Software Engineer","F","Operations",1,"FT",88037,8949,"Masters",34,2,0,"white",0,NA,NA
+356,2017-01-28,"Data Scientist","F","Administration",6,"FT",71105,8623,"College",34,2,0,"african american",0,NA,NA
+357,2017-01-28,"Driver","F","Engineering",2,"FT",62692,8886,"High School",37,3,0,"white",0,NA,NA
+358,2017-01-28,"Software Engineer","M","Management",4,"FT",112466,9493,"PhD",36,1,0,"white",0,NA,NA
+359,2017-01-28,"Data Scientist","F","Operations",6,"FT",71193,8331,"College",34,4,1,"white",0,NA,NA
+360,2017-01-28,"Marketing Associate","F","Administration",1,"FT",76286,9479,"College",35,4,0,"white",0,NA,NA
+361,2017-01-28,"Financial Analyst","M","Engineering",1,"FT",97328,9874,"Masters",34,3,0,"white",0,NA,NA
+362,2017-01-28,"Graphic Designer","M","Management",4,"FT",86766,9841,"Masters",34,5,0,"white",1,NA,NA
+363,2017-01-28,"Warehouse Associate","F","Operations",1,"FT",82453,9564,"College",39,4,0,"white",0,NA,NA
+364,2017-01-28,"Software Engineer","M","Administration",2,"FT",88814,10153,"PhD",31,2,0,"white",0,NA,NA
+365,2017-01-28,"Driver","M","Management",2,"FT",82832,9958,"College",39,4,1,"african american",0,NA,NA
+366,2017-01-28,"Sales Associate","F","Engineering",4,"FT",83034,8841,"College",39,5,0,"african american",0,NA,NA
+367,2017-01-28,"Warehouse Associate","F","Engineering",4,"FT",127085,9687,"College",48,3,1,"white",0,NA,NA
+368,2017-01-28,"Sales Associate","M","Administration",2,"FT",66168,9242,"High School",39,3,0,"white",0,NA,NA
+369,2017-01-28,"Data Scientist","M","Administration",4,"FT",59212,10209,"College",31,4,0,"african american",0,NA,NA
+370,2017-01-28,"Data Scientist","M","Operations",5,"FT",55189,9405,"College",30,3,0,"white",0,NA,NA
+371,2017-01-28,"Manager","M","Engineering",5,"FT",131311,11067,"PhD",39,2,0,"white",0,NA,NA
+372,2017-01-28,"Sales Associate","F","Management",6,"FT",52633,9516,"College",30,3,0,"african american",0,NA,NA
+373,2017-01-28,"Warehouse Associate","F","Operations",5,"FT",101154,10324,"College",45,4,0,"african american",0,NA,NA
+374,2017-01-28,"Financial Analyst","F","Engineering",1,"FT",113640,8762,"College",47,1,0,"white",0,NA,NA
+375,2017-01-28,"Data Scientist","M","Management",2,"FT",50401,8590,"College",29,3,0,"asian",0,NA,NA
+376,2017-01-28,"Marketing Associate","F","Administration",1,"FT",46263,9432,"College",29,2,1,"white",0,NA,NA
+377,2017-01-28,"Warehouse Associate","F","Management",1,"FT",74938,8234,"College",34,3,1,"white",0,NA,NA
+378,2017-01-28,"Marketing Associate","F","Sales",6,"FT",103384,9168,"College",45,3,0,"white",0,NA,NA
+379,2017-01-28,"Warehouse Associate","F","Engineering",5,"FT",77584,9798,"College",36,4,0,"white",1,NA,NA
+380,2017-01-28,"Graphic Designer","M","Management",3,"FT",83031,10240,"Masters",33,3,1,"white",0,NA,NA
+381,2017-01-28,"Financial Analyst","M","Engineering",2,"FT",111019,10042,"Masters",39,3,0,"white",0,NA,NA
+382,2017-01-28,"Warehouse Associate","F","Engineering",2,"FT",80192,8747,"College",36,4,0,"white",0,NA,NA
+383,2017-01-28,"Warehouse Associate","M","Management",5,"FT",48755,9931,"College",29,3,0,"white",0,NA,NA
+384,2017-01-28,"Warehouse Associate","M","Engineering",1,"FT",59044,9368,"College",31,3,1,"african american",0,NA,NA
+385,2017-01-28,"Manager","M","Engineering",5,"FT",146615,10173,"College",48,1,1,"african american",0,NA,NA
+386,2017-01-28,"Data Scientist","F","Engineering",1,"FT",46693,8457,"College",29,2,0,"white",0,NA,NA
+387,2017-01-28,"IT","F","Operations",6,"FT",88152,8857,"College",40,4,0,"african american",0,NA,NA
+388,2017-01-28,"Data Scientist","F","Administration",2,"FT",127156,9979,"Masters",41,2,0,"white",0,NA,NA
+389,2017-01-28,"Graphic Designer","M","Engineering",2,"FT",69462,8872,"College",33,3,0,"white",1,NA,NA
+390,2017-01-28,"Manager","M","Sales",6,"FT",119162,9395,"Masters",41,4,0,"white",0,NA,NA
+391,2017-01-28,"Software Engineer","M","Operations",2,"FT",68466,8384,"College",33,3,0,"white",0,NA,NA
+392,2017-01-28,"Financial Analyst","F","Administration",5,"FT",92622,8509,"Masters",35,2,0,"white",0,NA,NA
+393,2017-01-28,"Marketing Associate","F","Engineering",5,"FT",51331,9130,"College",31,2,0,"white",0,NA,NA
+394,2017-01-28,"Warehouse Associate","M","Sales",4,"FT",109419,8375,"High School",49,3,0,"white",0,NA,NA
+395,2017-01-28,"Software Engineer","M","Operations",1,"FT",80355,9945,"College",34,4,0,"african american",0,NA,NA
+396,2017-01-28,"Driver","F","Sales",5,"FT",77032,8725,"College",36,3,0,"native american",0,NA,NA
+397,2017-01-28,"Financial Analyst","F","Sales",2,"FT",146190,8961,"College",48,2,0,"african american",0,NA,NA
+398,2017-01-28,"Graphic Designer","F","Administration",2,"FT",96045,9129,"Masters",35,4,1,"white",0,NA,NA
+399,2017-01-28,"Software Engineer","M","Management",2,"FT",82534,8914,"College",39,2,0,"asian",0,NA,NA
+400,2017-01-28,"IT","M","Management",1,"FT",127769,8802,"College",48,2,0,"white",0,NA,NA
+401,2017-01-28,"Marketing Associate","F","Sales",2,"FT",96061,9093,"College",42,3,0,"white",0,NA,NA
+402,2017-01-28,"Warehouse Associate","F","Management",2,"FT",111342,10122,"College",46,5,0,"white",0,NA,NA
+403,2017-01-28,"Financial Analyst","F","Management",4,"FT",117554,8369,"PhD",38,1,0,"native american",0,NA,NA
+404,2017-01-28,"Financial Analyst","F","Engineering",2,"FT",109369,10052,"College",47,2,0,"african american",0,NA,NA
+405,2017-01-28,"Warehouse Associate","F","Operations",1,"FT",92358,9611,"College",43,3,0,"white",0,NA,NA
+406,2017-01-28,"Financial Analyst","F","Operations",2,"FT",91978,8647,"Masters",35,4,1,"african american",0,NA,NA
+407,2017-01-28,"Sales Associate","M","Administration",1,"FT",52290,9330,"College",30,1,0,"white",0,NA,NA
+408,2017-01-28,"IT","M","Engineering",4,"FT",47036,9130,"College",29,3,0,"african american",0,NA,NA
+409,2017-01-28,"Warehouse Associate","M","Sales",1,"FT",76517,8502,"College",35,3,0,"white",0,NA,NA
+410,2017-01-28,"Marketing Associate","F","Administration",5,"FT",89822,8818,"College",41,4,0,"white",0,NA,NA
+411,2017-01-28,"Driver","M","Engineering",5,"FT",90368,8215,"High School",46,3,0,"white",0,NA,NA
+412,2017-01-28,"Financial Analyst","M","Engineering",4,"FT",106194,9421,"College",46,3,0,"white",0,NA,NA
+413,2017-01-28,"Warehouse Associate","F","Management",6,"FT",87684,8645,"High School",45,4,0,"asian",0,NA,NA
+414,2017-01-28,"Marketing Associate","F","Administration",1,"FT",62040,8056,"College",32,4,0,"other",1,NA,NA
+415,2017-01-28,"Sales Associate","F","Engineering",1,"FT",84132,7204,"Masters",33,3,0,"white",0,NA,NA
+416,2017-01-28,"Financial Analyst","F","Administration",2,"FT",88047,8459,"Masters",34,5,0,"white",0,NA,NA
+417,2017-01-28,"Driver","F","Administration",6,"FT",65012,8357,"High School",38,2,0,"white",0,NA,NA
+418,2017-01-28,"Marketing Associate","F","Engineering",2,"FT",59251,8596,"College",31,2,0,"white",0,NA,NA
+419,2017-01-28,"Graphic Designer","F","Operations",2,"FT",78462,8743,"College",35,4,0,"white",0,NA,NA
+420,2017-01-28,"Driver","M","Management",2,"FT",97414,8833,"College",42,3,0,"white",0,NA,NA
+421,2017-01-28,"Driver","F","Administration",1,"FT",42722,8515,"High School",31,1,1,"white",0,NA,NA
+422,2017-01-28,"Marketing Associate","F","Management",2,"FT",63695,8897,"College",32,3,0,"white",0,NA,NA
+423,2017-01-28,"Data Scientist","M","Operations",1,"FT",110731,8643,"PhD",37,1,1,"white",0,NA,NA
+424,2017-01-28,"Software Engineer","M","Administration",6,"FT",125572,8245,"PhD",39,4,0,"white",0,NA,NA
+425,2017-01-28,"Driver","M","Operations",3,"FT",72754,8014,"High School",38,3,0,"white",0,NA,NA
+426,2017-01-28,"IT","F","Administration",1,"FT",53956,9454,"College",30,3,1,"white",1,NA,NA
+427,2017-01-28,"Sales Associate","M","Engineering",2,"FT",135013,8972,"Masters",41,1,0,"white",0,NA,NA
+428,2017-01-28,"IT","F","Management",4,"FT",108495,8668,"College",47,3,0,"african american",0,NA,NA
+429,2017-01-28,"Financial Analyst","F","Administration",2,"FT",87608,7511,"College",40,2,0,"african american",0,NA,NA
+430,2017-01-28,"Data Scientist","M","Administration",2,"FT",101173,9255,"College",45,4,0,"white",0,NA,NA
+431,2017-01-28,"IT","M","Management",5,"FT",126828,9310,"PhD",39,5,0,"african american",0,NA,NA
+432,2017-01-28,"Financial Analyst","M","Engineering",4,"FT",102716,8290,"College",45,2,0,"white",0,NA,NA
+433,2017-01-28,"Marketing Associate","M","Engineering",2,"FT",77793,8700,"College",36,5,0,"asian",0,NA,NA
+434,2017-01-28,"Marketing Associate","F","Sales",4,"FT",57469,7539,"College",31,2,0,"african american",0,NA,NA
+435,2017-01-28,"Graphic Designer","M","Management",2,"FT",83758,8498,"Masters",33,3,0,"white",0,NA,NA
+436,2017-01-28,"Graphic Designer","M","Administration",1,"FT",40187,8549,"College",27,5,0,"white",0,NA,NA
+437,2017-01-28,"Financial Analyst","M","Engineering",1,"FT",98531,6855,"Masters",35,1,0,"white",0,NA,NA
+438,2017-01-28,"Financial Analyst","M","Operations",2,"FT",104435,7802,"College",46,1,0,"white",0,NA,NA
+439,2017-01-28,"Data Scientist","M","Administration",4,"FT",67617,9075,"Masters",29,2,0,"white",0,NA,NA
+440,2017-01-28,"Driver","F","Administration",6,"FT",91049,10375,"High School",47,2,0,"white",0,NA,NA
+441,2017-01-28,"Manager","F","Operations",2,"FT",98519,8943,"College",43,2,0,"asian",0,NA,NA
+442,2017-01-28,"Marketing Associate","F","Operations",2,"FT",91713,7627,"College",45,3,1,"white",0,NA,NA
+443,2017-01-28,"Warehouse Associate","F","Engineering",2,"FT",88994,8873,"Masters",32,3,0,"white",0,NA,NA
+444,2017-01-28,"Financial Analyst","M","Administration",4,"FT",119381,9345,"Masters",41,3,0,"white",0,NA,NA
+445,2017-01-28,"Financial Analyst","F","Sales",6,"FT",113180,9089,"College",46,3,0,"white",0,NA,NA
+446,2017-01-28,"Warehouse Associate","M","Management",1,"FT",68639,9553,"College",33,5,1,"white",0,NA,NA
+447,2017-01-28,"Software Engineer","F","Engineering",1,"FT",103763,8383,"Masters",38,3,0,"white",0,NA,NA
+448,2017-01-28,"Software Engineer","M","Management",4,"FT",68295,7902,"College",33,1,1,"white",0,NA,NA
+449,2017-01-28,"Manager","M","Engineering",1,"FT",103107,9036,"College",45,4,0,"african american",0,NA,NA
+450,2017-01-28,"Warehouse Associate","F","Sales",5,"FT",64844,9042,"College",32,3,0,"white",0,NA,NA
+451,2017-01-28,"Driver","F","Sales",5,"FT",129132,8472,"College",47,1,0,"white",0,NA,NA
+452,2017-01-28,"Warehouse Associate","F","Engineering",5,"FT",93470,8578,"High School",47,4,0,"white",0,NA,NA
+453,2017-01-28,"Data Scientist","M","Administration",3,"FT",97625,7985,"Masters",34,3,0,"white",0,NA,NA
+454,2017-01-28,"Graphic Designer","F","Administration",1,"FT",66529,7067,"College",33,3,0,"white",0,NA,NA
+455,2017-01-28,"Data Scientist","F","Management",2,"FT",100115,7679,"Masters",37,2,1,"white",0,NA,NA
+456,2017-01-28,"Warehouse Associate","F","Administration",6,"FT",86423,8058,"College",40,3,0,"white",0,NA,NA
+457,2017-01-28,"Sales Associate","M","Sales",2,"FT",115165,8841,"College",47,3,0,"white",0,NA,NA
+458,2017-01-28,"Data Scientist","F","Engineering",4,"FT",133495,8552,"Masters",41,3,0,"white",0,NA,NA
+459,2017-01-28,"Marketing Associate","M","Operations",4,"FT",86516,8049,"Masters",34,4,0,"native american",0,NA,NA
+460,2017-01-28,"IT","M","Administration",5,"FT",69855,8347,"Masters",29,5,0,"white",0,NA,NA
+461,2017-01-28,"Sales Associate","F","Sales",6,"FT",84844,7205,"College",38,3,0,"white",0,NA,NA
+462,2017-01-28,"Graphic Designer","F","Operations",5,"FT",108241,8602,"College",47,4,0,"white",0,NA,NA
+463,2017-01-28,"Warehouse Associate","F","Sales",2,"FT",106478,8744,"High School",49,3,0,"white",0,NA,NA
+464,2017-01-28,"Financial Analyst","M","Management",3,"FT",114421,7444,"College",47,1,0,"white",0,NA,NA
+465,2017-01-28,"Software Engineer","M","Management",1,"FT",79208,8602,"Masters",30,5,0,"white",0,NA,NA
+466,2017-01-28,"Software Engineer","M","Administration",4,"FT",142105,9653,"PhD",40,3,0,"white",0,NA,NA
+467,2017-01-28,"Sales Associate","M","Administration",5,"FT",57783,9306,"College",31,3,0,"white",0,NA,NA
+468,2017-01-28,"Marketing Associate","F","Operations",5,"FT",46903,8130,"College",29,3,0,"white",0,NA,NA
+469,2017-01-28,"Financial Analyst","M","Operations",1,"FT",71858,7475,"Masters",30,2,0,"white",0,NA,NA
+470,2017-01-28,"Marketing Associate","F","Management",3,"FT",44325,8867,"College",29,5,0,"african american",0,NA,NA
+471,2017-01-28,"Driver","M","Engineering",5,"FT",100183,8832,"High School",49,3,0,"white",0,NA,NA
+472,2017-01-28,"Graphic Designer","M","Sales",3,"FT",61000,8872,"Masters",30,2,0,"white",0,NA,NA
+473,2017-01-28,"Software Engineer","M","Engineering",6,"FT",109623,6897,"Masters",39,3,0,"white",0,NA,NA
+474,2017-01-28,"Marketing Associate","F","Sales",6,"FT",60070,8273,"College",31,3,0,"white",0,NA,NA
+475,2017-01-28,"IT","F","Management",4,"FT",72542,8109,"Masters",30,2,1,"white",0,NA,NA
+476,2017-01-28,"Driver","M","Administration",6,"FT",110049,8928,"College",46,3,0,"white",0,NA,NA
+477,2017-01-28,"IT","F","Engineering",6,"FT",80981,8201,"Masters",32,3,0,"white",0,NA,NA
+478,2017-01-28,"IT","F","Operations",2,"FT",83499,8950,"College",39,4,0,"white",0,NA,NA
+479,2017-01-28,"Driver","F","Management",4,"FT",106788,8974,"High School",49,3,1,"white",0,NA,NA
+480,2017-01-28,"Warehouse Associate","F","Engineering",2,"FT",108922,8477,"Masters",39,2,0,"asian",0,NA,NA
+481,2017-01-28,"IT","F","Administration",5,"FT",127062,9619,"PhD",39,3,0,"white",0,NA,NA
+482,2017-01-28,"Software Engineer","M","Sales",4,"FT",120593,7573,"College",48,4,0,"white",0,NA,NA
+483,2017-01-28,"Manager","M","Administration",5,"FT",90685,8816,"College",42,1,0,"white",0,NA,NA
+484,2017-01-28,"Marketing Associate","F","Engineering",2,"FT",49830,8543,"College",29,3,1,"white",0,NA,NA
+485,2017-01-28,"Software Engineer","M","Sales",5,"FT",106896,7918,"College",47,3,0,"white",0,NA,NA
+486,2017-01-28,"Sales Associate","M","Sales",4,"FT",129425,7524,"Masters",41,5,0,"white",0,NA,NA
+487,2017-01-28,"Marketing Associate","F","Operations",1,"FT",82338,7414,"College",39,3,0,"white",0,NA,NA
+488,2017-01-28,"Marketing Associate","F","Administration",2,"FT",86036,7567,"Masters",34,2,0,"white",0,NA,NA
+489,2017-01-28,"Graphic Designer","M","Operations",2,"FT",93073,8188,"College",41,2,0,"white",0,NA,NA
+490,2017-01-28,"Software Engineer","M","Administration",2,"FT",87352,8435,"Masters",34,3,0,"white",0,NA,NA
+491,2017-01-28,"Software Engineer","M","Administration",5,"FT",139760,9229,"PhD",40,4,0,"white",1,NA,NA
+492,2017-01-28,"Financial Analyst","F","Engineering",2,"FT",100070,7169,"College",46,3,1,"white",0,NA,NA
+493,2017-01-28,"Warehouse Associate","M","Sales",4,"FT",102815,9090,"Masters",38,5,0,"african american",0,NA,NA
+494,2017-01-28,"Software Engineer","M","Management",1,"FT",101262,7794,"PhD",35,4,1,"white",0,NA,NA
+495,2017-01-28,"Data Scientist","M","Operations",1,"FT",58054,9585,"Masters",29,1,0,"white",0,NA,NA
+496,2017-01-28,"Sales Associate","F","Operations",2,"FT",129609,7392,"Masters",41,2,1,"african american",0,NA,NA
+497,2017-01-28,"Sales Associate","M","Administration",2,"FT",100091,9185,"Masters",37,3,1,"african american",0,NA,NA
+498,2017-01-28,"Manager","M","Sales",5,"FT",103479,7850,"Masters",38,4,1,"asian",0,NA,NA
+499,2017-01-28,"Driver","F","Operations",5,"FT",72827,7285,"College",34,3,0,"white",0,NA,NA
+500,2017-01-28,"IT","M","Engineering",5,"FT",74073,8509,"College",34,3,0,"white",0,NA,NA
+501,2017-01-28,"Financial Analyst","M","Administration",2,"FT",64852,8023,"College",32,2,0,"white",0,NA,NA
+502,2017-01-28,"Graphic Designer","M","Management",2,"FT",106887,8347,"College",47,1,0,"white",0,NA,NA
+503,2017-01-28,"Software Engineer","M","Administration",5,"FT",77309,7957,"College",36,4,0,"white",0,NA,NA
+504,2017-01-28,"Graphic Designer","F","Administration",5,"FT",100416,7513,"College",45,4,0,"white",0,NA,NA
+505,2017-01-28,"Software Engineer","M","Engineering",5,"FT",88482,7385,"Masters",33,3,0,"white",0,NA,NA
+506,2017-01-28,"Data Scientist","F","Management",4,"FT",78623,9012,"Masters",30,3,0,"white",0,NA,NA
+507,2017-01-28,"Sales Associate","M","Management",5,"FT",80135,9007,"High School",39,3,0,"african american",0,NA,NA
+508,2017-01-28,"Warehouse Associate","F","Sales",1,"FT",106158,7654,"High School",49,2,0,"white",0,NA,NA
+509,2017-01-28,"Graphic Designer","F","Engineering",1,"FT",89411,9522,"College",41,3,0,"white",0,NA,NA
+510,2017-01-28,"Graphic Designer","M","Sales",5,"FT",57398,7827,"Masters",29,3,0,"white",0,NA,NA
+511,2017-01-28,"Marketing Associate","F","Sales",2,"FT",95687,7279,"College",42,5,0,"white",1,NA,NA
+512,2017-01-28,"Graphic Designer","F","Operations",1,"FT",120294,8090,"Masters",41,4,0,"white",1,NA,NA
+513,2017-01-28,"Manager","M","Sales",1,"FT",107140,8199,"College",47,5,1,"african american",0,NA,NA
+514,2017-01-28,"Financial Analyst","F","Operations",2,"FT",76773,7278,"College",35,1,0,"white",0,NA,NA
+515,2017-01-28,"Data Scientist","F","Engineering",3,"FT",98010,8210,"Masters",34,5,0,"asian",1,NA,NA
+516,2017-01-28,"Data Scientist","F","Management",1,"FT",91099,8306,"PhD",32,3,0,"white",0,NA,NA
+517,2017-01-28,"Financial Analyst","M","Management",2,"FT",89559,8338,"College",41,3,0,"white",0,NA,NA
+518,2017-01-28,"Software Engineer","M","Management",2,"FT",120156,7200,"College",48,3,0,"white",0,NA,NA
+519,2017-01-28,"Driver","M","Engineering",4,"FT",102966,8978,"College",45,3,0,"white",0,NA,NA
+520,2017-01-28,"Marketing Associate","F","Sales",3,"FT",128970,7346,"Masters",41,4,0,"white",0,NA,NA
+521,2017-01-28,"Warehouse Associate","F","Management",5,"FT",121376,7832,"High School",49,2,0,"african american",0,NA,NA
+522,2017-01-28,"Financial Analyst","M","Administration",2,"FT",112941,7404,"Masters",38,2,0,"white",0,NA,NA
+523,2017-01-28,"Graphic Designer","M","Engineering",1,"FT",102736,9736,"College",45,4,0,"white",0,NA,NA
+524,2017-01-28,"Driver","F","Management",1,"FT",64008,7185,"High School",37,3,0,"white",0,NA,NA
+525,2017-01-28,"IT","M","Engineering",2,"FT",90024,7350,"Masters",34,3,0,"white",0,NA,NA
+526,2017-01-28,"Financial Analyst","F","Management",2,"FT",129406,7280,"Masters",41,3,0,"native american",0,NA,NA
+527,2017-01-28,"IT","F","Operations",2,"FT",54245,8245,"College",30,3,0,"white",0,NA,NA
+528,2017-01-28,"Marketing Associate","F","Administration",1,"FT",67530,9311,"College",32,2,0,"african american",0,NA,NA
+529,2017-01-28,"Graphic Designer","M","Sales",5,"FT",75506,9289,"College",33,2,0,"white",0,NA,NA
+530,2017-01-28,"Graphic Designer","F","Engineering",1,"FT",81826,8375,"College",37,2,1,"white",0,NA,NA
+531,2017-01-28,"Software Engineer","F","Operations",1,"FT",65711,7789,"College",32,5,1,"white",0,NA,NA
+532,2017-01-28,"Sales Associate","M","Management",6,"FT",61164,6346,"College",31,5,1,"white",0,NA,NA
+533,2017-01-28,"Driver","F","Administration",1,"FT",73801,8317,"High School",37,2,0,"african american",1,NA,NA
+534,2017-01-28,"Manager","M","Administration",3,"FT",157410,7840,"College",48,2,0,"asian",0,NA,NA
+535,2017-01-28,"Graphic Designer","M","Operations",3,"FT",50601,7351,"College",30,3,0,"white",0,NA,NA
+536,2017-01-28,"Data Scientist","M","Engineering",2,"FT",65907,7668,"College",32,2,0,"white",0,NA,NA
+537,2017-01-28,"Data Scientist","M","Sales",2,"FT",80937,8335,"College",38,3,0,"white",0,NA,NA
+538,2017-01-28,"Driver","M","Administration",4,"FT",90330,7022,"College",41,2,0,"white",0,NA,NA
+539,2017-01-28,"Sales Associate","F","Operations",3,"FT",93268,7657,"College",41,5,1,"white",0,NA,NA
+540,2017-01-28,"IT","M","Administration",4,"FT",109345,7791,"College",47,3,0,"white",0,NA,NA
+541,2017-01-28,"Software Engineer","M","Engineering",5,"FT",66084,7769,"Masters",29,3,0,"african american",0,NA,NA
+542,2017-01-28,"Financial Analyst","M","Operations",4,"FT",98900,7960,"Masters",35,5,0,"white",0,NA,NA
+543,2017-01-28,"IT","M","Engineering",3,"FT",78113,9335,"College",36,4,0,"white",0,NA,NA
+544,2017-01-28,"Software Engineer","M","Engineering",6,"FT",130826,9694,"Masters",41,2,1,"african american",0,NA,NA
+545,2017-01-28,"Sales Associate","M","Engineering",6,"FT",85928,7229,"College",40,2,0,"white",1,NA,NA
+546,2017-01-28,"IT","M","Operations",1,"FT",98515,9090,"College",43,1,0,"white",1,NA,NA
+547,2017-01-28,"Graphic Designer","F","Administration",3,"FT",103133,7793,"College",45,3,1,"white",0,NA,NA
+548,2017-01-28,"Marketing Associate","F","Sales",2,"FT",69254,8609,"College",33,2,0,"white",0,NA,NA
+549,2017-01-28,"Graphic Designer","M","Sales",2,"FT",114680,8472,"College",48,5,0,"white",0,NA,NA
+550,2017-01-28,"Driver","M","Engineering",4,"FT",92687,7634,"High School",49,4,0,"white",0,NA,NA
+551,2017-01-28,"Graphic Designer","M","Engineering",2,"FT",72301,8391,"College",34,1,0,"white",0,NA,NA
+552,2017-01-28,"Financial Analyst","M","Administration",6,"FT",67749,8517,"College",32,1,1,"white",0,NA,NA
+553,2017-01-28,"Data Scientist","F","Management",1,"FT",97000,7757,"Masters",34,3,0,"white",0,NA,NA
+554,2017-01-28,"Manager","M","Operations",2,"FT",104526,7253,"High School",49,1,1,"white",0,NA,NA
+555,2017-01-28,"Data Scientist","M","Management",4,"FT",80494,8449,"Masters",30,1,0,"white",0,NA,NA
+556,2017-01-28,"Financial Analyst","F","Operations",1,"FT",40341,7320,"College",27,2,0,"white",0,NA,NA
+557,2017-01-28,"Software Engineer","M","Engineering",1,"FT",74316,8761,"College",34,4,0,"white",0,NA,NA
+558,2017-01-28,"IT","F","Sales",2,"FT",102247,8307,"PhD",36,2,1,"african american",0,NA,NA
+559,2017-01-28,"Driver","M","Sales",1,"FT",104657,6839,"College",46,3,0,"white",0,NA,NA
+560,2017-01-28,"Warehouse Associate","F","Engineering",2,"FT",92722,8010,"High School",49,1,1,"white",0,NA,NA
+561,2017-01-28,"Sales Associate","F","Management",2,"FT",72120,9084,"College",34,3,0,"white",1,NA,NA
+562,2017-01-28,"Warehouse Associate","F","Operations",4,"FT",62260,7740,"College",32,2,0,"white",0,NA,NA
+563,2017-01-28,"Manager","M","Engineering",2,"FT",123422,8894,"High School",49,5,0,"white",0,NA,NA
+564,2017-01-28,"Warehouse Associate","M","Sales",6,"FT",62097,7075,"College",32,3,0,"white",0,NA,NA
+565,2017-01-28,"Data Scientist","M","Management",3,"FT",102910,8335,"College",45,3,0,"white",0,NA,NA
+566,2017-01-28,"Data Scientist","F","Engineering",3,"FT",84021,9111,"Masters",33,4,0,"white",0,NA,NA
+567,2017-01-28,"Warehouse Associate","F","Operations",6,"FT",37026,8636,"High School",28,2,0,"white",1,NA,NA
+568,2017-01-28,"Driver","M","Operations",1,"FT",56318,8407,"High School",34,3,1,"white",0,NA,NA
+569,2017-01-28,"IT","M","Operations",5,"FT",64958,7910,"College",32,3,0,"white",0,NA,NA
+570,2017-01-28,"Data Scientist","F","Operations",4,"FT",55954,7999,"College",30,2,1,"white",0,NA,NA
+571,2017-01-28,"Graphic Designer","F","Sales",5,"FT",108820,7776,"PhD",37,3,0,"african american",0,NA,NA
+572,2017-01-28,"IT","F","Operations",1,"FT",100014,8621,"College",45,5,0,"white",0,NA,NA
+573,2017-01-28,"Driver","M","Operations",1,"FT",88213,8581,"College",40,2,0,"other",0,NA,NA
+574,2017-01-28,"Sales Associate","F","Sales",4,"FT",108288,7491,"College",47,3,0,"white",0,NA,NA
+575,2017-01-28,"Driver","M","Sales",1,"FT",100859,8388,"High School",49,5,0,"white",0,NA,NA
+576,2017-01-28,"Financial Analyst","F","Administration",4,"FT",114007,9248,"College",47,2,0,"white",0,NA,NA
+577,2017-01-28,"Warehouse Associate","M","Management",2,"FT",83025,8105,"High School",45,3,0,"african american",0,NA,NA
+578,2017-01-28,"IT","M","Administration",5,"FT",95964,9147,"Masters",35,2,0,"white",0,NA,NA
+579,2017-01-28,"Warehouse Associate","F","Administration",4,"FT",94973,7885,"College",42,2,0,"white",0,NA,NA
+580,2017-01-28,"Graphic Designer","M","Sales",4,"FT",102108,8339,"College",45,1,0,"white",0,NA,NA
+581,2017-01-28,"Data Scientist","M","Sales",4,"FT",60736,7873,"Masters",28,3,0,"white",0,NA,NA
+582,2017-01-28,"IT","M","Operations",1,"FT",82126,6971,"College",39,3,0,"african american",0,NA,NA
+583,2017-01-28,"Financial Analyst","M","Operations",4,"FT",69878,8389,"Masters",29,3,1,"white",1,NA,NA
+584,2017-01-28,"IT","F","Sales",2,"FT",37780,8443,"College",26,2,1,"white",0,NA,NA
+585,2017-01-28,"Graphic Designer","M","Management",5,"FT",132873,7266,"Masters",41,2,1,"white",0,NA,NA
+586,2017-01-28,"Financial Analyst","M","Operations",4,"FT",65164,7827,"College",32,2,1,"white",0,NA,NA
+587,2017-01-28,"IT","F","Administration",1,"FT",121210,7949,"Masters",41,3,0,"asian",0,NA,NA
+588,2017-01-28,"Graphic Designer","F","Engineering",1,"FT",95169,7415,"Masters",35,2,0,"white",0,NA,NA
+589,2017-01-28,"Sales Associate","M","Management",2,"FT",94492,8209,"College",42,4,1,"white",0,NA,NA
+590,2017-01-28,"Driver","F","Operations",4,"FT",75901,7402,"College",35,2,0,"white",0,NA,NA
+591,2017-01-28,"Sales Associate","M","Operations",2,"FT",100463,6332,"College",45,3,0,"african american",0,NA,NA
+592,2017-01-28,"Sales Associate","F","Operations",4,"FT",92276,9551,"Masters",34,4,1,"white",0,NA,NA
+593,2017-01-28,"Driver","F","Engineering",6,"FT",92458,6966,"College",44,1,1,"white",0,NA,NA
+594,2017-01-28,"Graphic Designer","M","Administration",6,"FT",88571,7464,"College",41,4,0,"white",0,NA,NA
+595,2017-01-28,"Financial Analyst","M","Management",4,"FT",87409,7168,"Masters",34,3,0,"white",0,NA,NA
+596,2017-01-28,"Warehouse Associate","M","Sales",5,"FT",133927,8278,"College",48,2,1,"white",0,NA,NA
+597,2017-01-28,"Manager","M","Sales",1,"FT",90482,7094,"College",42,5,0,"white",0,NA,NA
+598,2017-01-28,"Marketing Associate","F","Sales",1,"FT",87435,9230,"College",40,3,0,"asian",0,NA,NA
+599,2017-01-28,"Graphic Designer","F","Operations",5,"FT",130251,7750,"College",47,3,0,"african american",0,NA,NA
+600,2017-01-28,"Manager","F","Management",2,"FT",106560,7257,"College",46,4,0,"white",0,NA,NA
+601,2017-01-28,"Software Engineer","M","Operations",2,"FT",107366,7774,"College",47,2,0,"african american",0,NA,NA
+602,2017-01-28,"Warehouse Associate","F","Sales",2,"FT",56172,7739,"College",30,3,0,"african american",0,NA,NA
+603,2017-01-28,"Marketing Associate","F","Sales",2,"FT",58807,7316,"College",31,4,1,"african american",1,NA,NA
+604,2017-01-28,"Financial Analyst","F","Sales",1,"FT",126626,7144,"Masters",41,2,0,"white",0,NA,NA
+605,2017-01-28,"Manager","F","Sales",5,"FT",104202,8456,"College",46,3,1,"white",0,NA,NA
+606,2017-01-28,"Warehouse Associate","M","Operations",2,"FT",77793,8093,"College",36,3,0,"white",0,NA,NA
+607,2017-01-28,"Warehouse Associate","M","Operations",3,"FT",84930,6914,"High School",44,3,0,"white",1,NA,NA
+608,2017-01-28,"Driver","M","Engineering",5,"FT",69367,6378,"College",33,3,0,"white",0,NA,NA
+609,2017-01-28,"Graphic Designer","M","Operations",4,"FT",116751,8505,"Masters",38,2,0,"white",0,NA,NA
+610,2017-01-28,"Software Engineer","M","Administration",1,"FT",139841,7641,"Masters",42,2,0,"african american",1,NA,NA
+611,2017-01-28,"Driver","F","Administration",6,"FT",78750,6666,"College",36,5,0,"white",0,NA,NA
+612,2017-01-28,"Warehouse Associate","F","Administration",2,"FT",93306,8265,"College",41,3,0,"white",0,NA,NA
+613,2017-01-28,"Financial Analyst","M","Operations",6,"FT",60892,8462,"Masters",29,3,0,"asian",0,NA,NA
+614,2017-01-28,"Graphic Designer","M","Engineering",5,"FT",99543,6111,"Masters",37,4,0,"white",1,NA,NA
+615,2017-01-28,"Sales Associate","F","Operations",4,"FT",56745,6495,"College",31,4,0,"african american",0,NA,NA
+616,2017-01-28,"Data Scientist","F","Operations",4,"FT",59458,7939,"College",31,3,0,"white",0,NA,NA
+617,2017-01-28,"Driver","F","Sales",4,"FT",71824,6397,"High School",38,4,1,"white",0,NA,NA
+618,2017-01-28,"Software Engineer","M","Operations",4,"FT",111903,6824,"College",46,1,0,"white",0,NA,NA
+619,2017-01-28,"IT","M","Sales",2,"FT",104361,7813,"College",46,3,0,"white",0,NA,NA
+620,2017-01-28,"Warehouse Associate","F","Sales",4,"FT",91568,7139,"College",45,4,0,"white",0,NA,NA
+621,2017-01-28,"Software Engineer","M","Engineering",2,"FT",155834,7101,"Masters",42,2,0,"white",0,NA,NA
+622,2017-01-28,"Financial Analyst","M","Sales",4,"FT",83620,7864,"College",39,4,0,"white",0,NA,NA
+623,2017-01-28,"Marketing Associate","F","Administration",5,"FT",81995,7840,"College",39,4,0,"african american",0,NA,NA
+624,2017-01-28,"Graphic Designer","F","Sales",2,"FT",66125,8465,"College",33,1,0,"white",0,NA,NA
+625,2017-01-28,"Driver","M","Engineering",5,"FT",89678,7778,"College",41,5,0,"white",0,NA,NA
+626,2017-01-28,"Sales Associate","F","Operations",1,"FT",98321,8980,"Masters",34,4,0,"white",0,NA,NA
+627,2017-01-28,"Manager","M","Management",4,"FT",109346,7730,"College",47,2,0,"white",0,NA,NA
+628,2017-01-28,"Manager","F","Sales",1,"FT",155203,7808,"Masters",42,2,0,"white",0,NA,NA
+629,2017-01-28,"IT","M","Management",3,"FT",98100,7460,"Masters",34,3,1,"african american",1,NA,NA
+630,2017-01-28,"Data Scientist","F","Management",1,"FT",73306,7765,"Masters",30,2,0,"white",0,NA,NA
+631,2017-01-28,"Driver","M","Engineering",2,"FT",68797,7817,"College",33,4,0,"white",0,NA,NA
+632,2017-01-28,"Financial Analyst","M","Management",5,"FT",120154,6751,"College",48,3,0,"white",0,NA,NA
+633,2017-01-28,"Warehouse Associate","F","Sales",4,"FT",76865,8145,"College",35,3,0,"white",0,NA,NA
+634,2017-01-28,"Graphic Designer","F","Management",5,"FT",125770,8013,"PhD",39,5,0,"white",0,NA,NA
+635,2017-01-28,"Financial Analyst","F","Administration",2,"FT",119931,8400,"College",48,3,0,"white",0,NA,NA
+636,2017-01-28,"Marketing Associate","F","Operations",5,"FT",71794,6685,"Masters",30,3,0,"white",0,NA,NA
+637,2017-01-28,"Driver","F","Management",5,"FT",87998,7028,"College",40,3,0,"african american",0,NA,NA
+638,2017-01-28,"Software Engineer","M","Administration",5,"FT",140445,7905,"College",48,2,0,"white",0,NA,NA
+639,2017-01-28,"Warehouse Associate","M","Administration",4,"FT",85306,7735,"College",37,2,0,"white",0,NA,NA
+640,2017-01-28,"Sales Associate","F","Operations",6,"FT",77275,7089,"High School",39,1,0,"white",0,NA,NA
+641,2017-01-28,"Manager","M","Sales",2,"FT",143887,7622,"PhD",40,4,0,"white",0,NA,NA
+642,2017-01-28,"Driver","F","Sales",1,"FT",130720,7246,"High School",49,2,0,"white",0,NA,NA
+643,2017-01-28,"Software Engineer","F","Sales",5,"FT",86675,7947,"Masters",34,3,1,"white",0,NA,NA
+644,2017-01-28,"Graphic Designer","F","Operations",4,"FT",56954,7550,"College",31,1,0,"white",0,NA,NA
+645,2017-01-28,"IT","M","Operations",1,"FT",133472,8688,"Masters",41,4,0,"white",0,NA,NA
+646,2017-01-28,"Data Scientist","M","Administration",4,"FT",62753,7242,"Masters",29,3,0,"african american",0,NA,NA
+647,2017-01-28,"Sales Associate","M","Operations",3,"FT",128173,8360,"Masters",41,3,0,"white",0,NA,NA
+648,2017-01-28,"Software Engineer","F","Engineering",2,"FT",112491,8727,"College",46,2,0,"asian",0,NA,NA
+649,2017-01-28,"Marketing Associate","F","Operations",5,"FT",36548,8090,"College",26,2,0,"white",0,NA,NA
+650,2017-01-28,"Driver","F","Engineering",3,"FT",88781,6413,"College",41,5,1,"white",0,NA,NA
+651,2017-01-28,"Software Engineer","M","Management",5,"FT",157852,6669,"PhD",40,3,0,"white",0,NA,NA
+652,2017-01-28,"Financial Analyst","M","Operations",5,"FT",113730,6578,"PhD",36,4,0,"white",0,NA,NA
+653,2017-01-28,"Driver","M","Management",6,"FT",68403,6893,"College",33,2,0,"asian",0,NA,NA
+654,2017-01-28,"Manager","M","Sales",5,"FT",176789,6773,"PhD",40,5,1,"white",0,NA,NA
+655,2017-01-28,"Data Scientist","F","Sales",5,"FT",129226,6912,"Masters",41,4,0,"white",1,NA,NA
+656,2017-01-28,"Graphic Designer","M","Engineering",6,"FT",59399,6692,"College",31,3,1,"white",0,NA,NA
+657,2017-01-28,"Sales Associate","M","Management",2,"FT",102473,8468,"Masters",38,3,0,"white",0,NA,NA
+658,2017-01-28,"Manager","F","Management",1,"FT",160614,8354,"PhD",40,3,0,"white",0,NA,NA
+659,2017-01-28,"Sales Associate","F","Sales",6,"FT",89570,7411,"College",41,3,0,"white",0,NA,NA
+660,2017-01-28,"Marketing Associate","F","Sales",4,"FT",73989,8780,"College",34,3,0,"white",0,NA,NA
+661,2017-01-28,"Financial Analyst","F","Management",3,"FT",67762,7449,"College",32,3,0,"white",0,NA,NA
+662,2017-01-28,"Financial Analyst","M","Administration",2,"FT",90307,7663,"College",41,5,0,"white",0,NA,NA
+663,2017-01-28,"Driver","F","Management",2,"FT",77751,6554,"High School",39,4,1,"white",0,NA,NA
+664,2017-01-28,"Data Scientist","F","Management",2,"FT",87150,6814,"College",40,4,1,"white",0,NA,NA
+665,2017-01-28,"Driver","F","Sales",5,"FT",79291,5000,"College",36,4,1,"asian",0,NA,NA
+666,2017-01-28,"Graphic Designer","M","Engineering",5,"FT",79144,8328,"Masters",30,4,0,"asian",0,NA,NA
+667,2017-01-28,"Manager","M","Engineering",6,"FT",150467,8100,"PhD",40,2,0,"white",0,NA,NA
+668,2017-01-28,"Driver","F","Engineering",5,"FT",57070,6615,"College",31,1,1,"white",0,NA,NA
+669,2017-01-28,"Marketing Associate","F","Sales",2,"FT",102201,7640,"College",45,5,0,"white",0,NA,NA
+670,2017-01-28,"Driver","M","Engineering",2,"FT",70088,8244,"College",34,3,0,"white",0,NA,NA
+671,2017-01-28,"Marketing Associate","F","Operations",5,"FT",57782,7144,"College",31,4,0,"white",0,NA,NA
+672,2017-01-28,"Manager","M","Operations",2,"FT",117629,6291,"College",47,2,0,"white",0,NA,NA
+673,2017-01-28,"Sales Associate","M","Administration",1,"FT",118653,7036,"College",47,2,1,"african american",0,NA,NA
+674,2017-01-28,"Marketing Associate","F","Management",4,"FT",71772,5764,"College",34,2,0,"white",1,NA,NA
+675,2017-01-28,"Software Engineer","M","Sales",4,"FT",134758,7500,"Masters",41,3,0,"white",0,NA,NA
+676,2017-01-28,"Marketing Associate","F","Administration",3,"FT",66438,6935,"College",33,2,0,"white",0,NA,NA
+677,2017-01-28,"Warehouse Associate","M","Operations",2,"FT",87134,6184,"High School",45,5,0,"african american",0,NA,NA
+678,2017-01-28,"Marketing Associate","F","Operations",3,"FT",79674,6993,"College",36,1,0,"white",0,NA,NA
+679,2017-01-28,"Marketing Associate","F","Engineering",4,"FT",85161,6682,"College",38,2,0,"white",0,NA,NA
+680,2017-01-28,"Warehouse Associate","F","Management",6,"FT",114479,6700,"College",47,4,1,"african american",0,NA,NA
+681,2017-01-28,"Marketing Associate","M","Operations",1,"FT",65547,6530,"College",32,5,0,"white",0,NA,NA
+682,2017-01-28,"Data Scientist","F","Administration",1,"FT",71946,6386,"College",34,3,1,"white",0,NA,NA
+683,2017-01-28,"Financial Analyst","M","Operations",3,"FT",96777,7736,"College",42,3,0,"white",0,NA,NA
+684,2017-01-28,"Marketing Associate","F","Administration",4,"FT",62054,6955,"College",32,3,0,"white",0,NA,NA
+685,2017-01-28,"Software Engineer","M","Sales",2,"FT",61527,6345,"College",31,2,0,"white",0,NA,NA
+686,2017-01-28,"Warehouse Associate","F","Management",1,"FT",64624,8253,"High School",38,4,1,"white",0,NA,NA
+687,2017-01-28,"Driver","M","Administration",3,"FT",118629,6740,"High School",49,2,0,"white",0,NA,NA
+688,2017-01-28,"Data Scientist","M","Management",1,"FT",80171,6454,"PhD",31,5,0,"white",0,NA,NA
+689,2017-01-28,"Sales Associate","F","Administration",5,"FT",105410,6363,"College",46,3,0,"white",0,NA,NA
+690,2017-01-28,"Software Engineer","M","Management",4,"FT",112134,8587,"PhD",36,3,0,"white",0,NA,NA
+691,2017-01-28,"Warehouse Associate","F","Engineering",6,"FT",90005,6631,"Masters",34,4,0,"white",0,NA,NA
+692,2017-01-28,"Marketing Associate","F","Operations",2,"FT",70374,7466,"College",34,4,0,"white",0,NA,NA
+693,2017-01-28,"Manager","M","Administration",5,"FT",121682,7189,"College",48,5,0,"white",0,NA,NA
+694,2017-01-28,"Marketing Associate","F","Operations",5,"FT",104355,7555,"College",46,4,0,"asian",0,NA,NA
+695,2017-01-28,"IT","F","Engineering",2,"FT",75811,5520,"College",34,2,0,"white",0,NA,NA
+696,2017-01-28,"Sales Associate","M","Engineering",2,"FT",113544,6839,"Masters",37,2,0,"white",0,NA,NA
+697,2017-01-28,"Graphic Designer","F","Operations",5,"FT",107025,6577,"College",47,3,1,"white",0,NA,NA
+698,2017-01-28,"Financial Analyst","M","Operations",4,"FT",78564,7875,"College",36,3,0,"white",1,NA,NA
+699,2017-01-28,"Financial Analyst","M","Operations",2,"FT",91905,7614,"College",45,5,0,"white",0,NA,NA
+700,2017-01-28,"Financial Analyst","M","Engineering",6,"FT",121728,7932,"College",48,2,0,"white",1,NA,NA
+701,2017-01-28,"Marketing Associate","M","Management",5,"FT",54817,6519,"College",30,5,0,"white",0,NA,NA
+702,2017-01-28,"Sales Associate","M","Operations",5,"FT",37898,6448,"College",26,1,0,"african american",0,NA,NA
+703,2017-01-28,"IT","M","Operations",1,"FT",79544,6760,"Masters",30,3,0,"african american",1,NA,NA
+704,2017-01-28,"Data Scientist","F","Engineering",2,"FT",40056,7632,"College",27,3,0,"african american",0,NA,NA
+705,2017-01-28,"IT","F","Operations",6,"FT",70846,7404,"College",34,3,0,"white",0,NA,NA
+706,2017-01-28,"Marketing Associate","F","Sales",2,"FT",79707,7196,"College",36,3,0,"white",0,NA,NA
+707,2017-01-28,"Software Engineer","M","Operations",6,"FT",124817,7268,"College",48,3,0,"white",0,NA,NA
+708,2017-01-28,"Manager","M","Management",2,"FT",123114,6946,"College",48,2,0,"white",0,NA,NA
+709,2017-01-28,"Financial Analyst","F","Operations",2,"FT",62377,6999,"College",32,3,0,"white",0,NA,NA
+710,2017-01-28,"Data Scientist","M","Sales",3,"FT",82850,5794,"Masters",33,1,0,"african american",0,NA,NA
+711,2017-01-28,"IT","F","Sales",4,"FT",75932,7003,"College",35,5,0,"asian",0,NA,NA
+712,2017-01-28,"Manager","M","Management",4,"FT",121949,6739,"PhD",39,1,1,"white",0,NA,NA
+713,2017-01-28,"Marketing Associate","F","Sales",3,"FT",82755,7325,"Masters",33,3,0,"white",0,NA,NA
+714,2017-01-28,"Data Scientist","M","Administration",4,"FT",122037,8147,"PhD",39,3,0,"white",0,NA,NA
+715,2017-01-28,"Warehouse Associate","F","Administration",2,"FT",78021,6970,"College",36,3,1,"white",0,NA,NA
+716,2017-01-28,"IT","M","Sales",6,"FT",56309,7559,"College",30,1,0,"white",0,NA,NA
+717,2017-01-28,"Financial Analyst","M","Management",5,"FT",90002,8123,"Masters",34,2,0,"white",1,NA,NA
+718,2017-01-28,"IT","M","Sales",3,"FT",91066,6257,"College",43,2,0,"white",0,NA,NA
+719,2017-01-28,"Manager","M","Management",5,"FT",118088,7721,"College",47,1,0,"native american",0,NA,NA
+720,2017-01-28,"Software Engineer","M","Operations",4,"FT",92099,7246,"Masters",34,5,0,"white",1,NA,NA
+721,2017-01-28,"Financial Analyst","F","Administration",4,"FT",116758,7744,"College",47,4,1,"white",0,NA,NA
+722,2017-01-28,"Marketing Associate","F","Sales",2,"FT",96500,8092,"College",42,2,0,"white",0,NA,NA
+723,2017-01-28,"Manager","M","Management",1,"FT",138851,6929,"College",48,2,0,"white",0,NA,NA
+724,2017-01-28,"Marketing Associate","F","Administration",6,"FT",49632,7169,"College",29,5,0,"white",0,NA,NA
+725,2017-01-28,"Driver","F","Management",2,"FT",76700,7242,"College",35,2,0,"white",0,NA,NA
+726,2017-01-28,"IT","M","Management",1,"FT",131275,6997,"College",47,4,0,"white",0,NA,NA
+727,2017-01-28,"Manager","M","Operations",1,"FT",89648,6573,"College",41,2,0,"white",0,NA,NA
+728,2017-01-28,"Graphic Designer","F","Administration",2,"FT",100516,6737,"College",45,3,0,"white",0,NA,NA
+729,2017-01-28,"Manager","M","Operations",6,"FT",112854,6564,"College",47,3,0,"white",0,NA,NA
+730,2017-01-28,"Software Engineer","M","Sales",1,"FT",155676,6586,"Masters",42,3,0,"white",0,NA,NA
+731,2017-01-28,"Driver","M","Sales",4,"FT",135781,6042,"College",48,3,0,"white",0,NA,NA
+732,2017-01-28,"Sales Associate","F","Engineering",5,"FT",84935,6122,"College",38,5,0,"african american",0,NA,NA
+733,2017-01-28,"Warehouse Associate","M","Engineering",1,"FT",66407,7522,"High School",39,4,1,"white",0,NA,NA
+734,2017-01-28,"Driver","F","Sales",2,"FT",101249,7329,"College",45,5,1,"white",0,NA,NA
+735,2017-01-28,"Manager","M","Administration",6,"FT",143189,6321,"Masters",42,3,1,"asian",0,NA,NA
+736,2017-01-28,"Graphic Designer","M","Engineering",4,"FT",105800,7822,"PhD",37,2,0,"white",0,NA,NA
+737,2017-01-28,"Software Engineer","M","Operations",4,"FT",124871,7327,"College",48,4,1,"white",0,NA,NA
+738,2017-01-28,"Data Scientist","M","Sales",5,"FT",83894,6922,"PhD",31,2,0,"white",0,NA,NA
+739,2017-01-28,"Manager","F","Management",5,"FT",144146,6340,"High School",50,4,0,"white",0,NA,NA
+740,2017-01-28,"Marketing Associate","F","Sales",2,"FT",69268,7106,"College",33,5,0,"white",1,NA,NA
+741,2017-01-28,"Sales Associate","M","Sales",4,"FT",85948,7646,"High School",45,4,0,"white",0,NA,NA
+742,2017-01-28,"Software Engineer","M","Engineering",2,"FT",92289,6643,"Masters",34,3,0,"white",0,NA,NA
+743,2017-01-28,"Financial Analyst","M","Operations",1,"FT",75397,6490,"College",33,2,0,"white",0,NA,NA
+744,2017-01-28,"Software Engineer","M","Engineering",1,"FT",102597,5937,"College",45,4,0,"white",0,NA,NA
+745,2017-01-28,"Sales Associate","F","Engineering",2,"FT",127561,7552,"PhD",39,3,0,"white",0,NA,NA
+746,2017-01-28,"Warehouse Associate","M","Sales",1,"FT",72945,7279,"High School",38,3,0,"white",0,NA,NA
+747,2017-01-28,"Software Engineer","M","Management",5,"FT",145632,6439,"PhD",40,1,0,"white",0,NA,NA
+748,2017-01-28,"Marketing Associate","F","Sales",6,"FT",77223,5272,"Masters",30,2,0,"white",0,NA,NA
+749,2017-01-28,"Manager","M","Operations",6,"FT",130093,6416,"Masters",41,2,1,"white",0,NA,NA
+750,2017-01-28,"Marketing Associate","M","Administration",2,"FT",53220,5153,"College",30,2,0,"white",0,NA,NA
+751,2017-01-28,"Warehouse Associate","F","Engineering",5,"FT",92080,6897,"College",43,5,0,"asian",0,NA,NA
+752,2017-01-28,"Graphic Designer","F","Sales",2,"FT",118762,6545,"College",47,3,1,"white",0,NA,NA
+753,2017-01-28,"Sales Associate","F","Operations",1,"FT",85398,7113,"College",39,3,0,"white",0,NA,NA
+754,2017-01-28,"Data Scientist","M","Operations",2,"FT",75227,6027,"College",34,3,0,"white",1,NA,NA
+755,2017-01-28,"Data Scientist","M","Administration",5,"FT",104314,6611,"Masters",39,3,1,"asian",0,NA,NA
+756,2017-01-28,"Manager","M","Operations",4,"FT",83262,6884,"High School",45,3,0,"white",1,NA,NA
+757,2017-01-28,"Data Scientist","F","Administration",1,"FT",123172,5797,"Masters",41,2,1,"white",1,NA,NA
+758,2017-01-28,"Data Scientist","M","Administration",5,"FT",67040,7412,"Masters",29,3,0,"white",0,NA,NA
+759,2017-01-28,"Warehouse Associate","M","Administration",6,"FT",77655,6581,"College",36,4,0,"white",0,NA,NA
+760,2017-01-28,"Data Scientist","F","Administration",5,"FT",107476,6182,"College",47,3,0,"white",0,NA,NA
+761,2017-01-28,"Software Engineer","M","Operations",1,"FT",89811,6471,"Masters",33,3,0,"white",0,NA,NA
+762,2017-01-28,"Graphic Designer","M","Administration",4,"FT",106893,7958,"College",47,5,1,"white",1,NA,NA
+763,2017-01-28,"Software Engineer","M","Engineering",6,"FT",154039,7304,"PhD",40,3,0,"white",0,NA,NA
+764,2017-01-28,"Warehouse Associate","M","Operations",1,"FT",116774,6160,"High School",48,2,0,"white",0,NA,NA
+765,2017-01-28,"Software Engineer","M","Management",5,"FT",98281,5646,"College",42,3,0,"white",1,NA,NA
+766,2017-01-28,"Marketing Associate","F","Engineering",6,"FT",34208,6620,"College",26,4,0,"asian",0,NA,NA
+767,2017-01-28,"Software Engineer","M","Engineering",4,"FT",121821,6499,"Masters",41,3,0,"white",1,NA,NA
+768,2017-01-28,"Software Engineer","M","Engineering",4,"FT",113122,6060,"Masters",37,5,0,"white",1,NA,NA
+769,2017-01-28,"Software Engineer","M","Management",6,"FT",92154,7642,"Masters",34,4,0,"white",0,NA,NA
+770,2017-01-28,"Manager","M","Engineering",2,"FT",110643,7291,"College",46,3,0,"african american",0,NA,NA
+771,2017-01-28,"Data Scientist","F","Administration",3,"FT",82345,7211,"PhD",31,4,0,"white",0,NA,NA
+772,2017-01-28,"Data Scientist","M","Sales",3,"FT",103908,8109,"PhD",36,1,0,"african american",0,NA,NA
+773,2017-01-28,"Marketing Associate","F","Engineering",5,"FT",49303,6615,"College",29,4,0,"white",0,NA,NA
+774,2017-01-28,"IT","F","Operations",3,"FT",98456,7177,"College",43,3,0,"white",0,NA,NA
+775,2017-01-28,"Warehouse Associate","M","Operations",4,"FT",94927,6274,"College",42,2,0,"white",0,NA,NA
+776,2017-01-28,"Software Engineer","M","Administration",1,"FT",76654,6696,"College",35,3,0,"white",0,NA,NA
+777,2017-01-28,"Manager","M","Sales",5,"FT",107859,6989,"Masters",39,4,0,"white",0,NA,NA
+778,2017-01-28,"Manager","F","Operations",1,"FT",129885,7314,"High School",49,3,1,"white",0,NA,NA
+779,2017-01-28,"Graphic Designer","M","Sales",6,"FT",85702,6556,"Masters",34,3,0,"white",0,NA,NA
+780,2017-01-28,"Financial Analyst","F","Operations",1,"FT",97797,5239,"Masters",34,3,0,"white",0,NA,NA
+781,2017-01-28,"Manager","M","Management",2,"FT",115567,4775,"Masters",38,1,1,"white",0,NA,NA
+782,2017-01-28,"Sales Associate","F","Administration",6,"FT",91566,6996,"High School",48,2,0,"white",0,NA,NA
+783,2017-01-28,"Sales Associate","F","Management",2,"FT",131608,6537,"Masters",41,2,0,"white",0,NA,NA
+784,2017-01-28,"Sales Associate","M","Administration",4,"FT",118888,7438,"Masters",40,1,1,"white",0,NA,NA
+785,2017-01-28,"Graphic Designer","M","Sales",5,"FT",75833,6942,"College",34,2,0,"white",0,NA,NA
+786,2017-01-28,"Financial Analyst","F","Engineering",5,"FT",65750,6177,"College",32,3,0,"african american",0,NA,NA
+787,2017-01-28,"Graphic Designer","M","Management",2,"FT",123371,6931,"College",48,4,0,"african american",1,NA,NA
+788,2017-01-28,"Marketing Associate","F","Sales",5,"FT",76806,6662,"Masters",30,1,1,"white",0,NA,NA
+789,2017-01-28,"Warehouse Associate","M","Management",6,"FT",83774,7127,"College",38,2,0,"white",0,NA,NA
+790,2017-01-28,"Warehouse Associate","F","Operations",6,"FT",114733,6290,"College",48,4,0,"white",1,NA,NA
+791,2017-01-28,"Financial Analyst","M","Administration",3,"FT",69320,6765,"Masters",29,3,0,"white",1,NA,NA
+792,2017-01-28,"Sales Associate","M","Operations",3,"FT",110746,5947,"Masters",39,3,1,"asian",0,NA,NA
+793,2017-01-28,"Graphic Designer","M","Engineering",5,"FT",105632,6394,"Masters",39,4,0,"white",0,NA,NA
+794,2017-01-28,"Manager","M","Engineering",1,"FT",117648,4765,"College",47,1,0,"white",0,NA,NA
+795,2017-01-28,"Driver","F","Management",1,"FT",89170,6722,"College",42,3,0,"asian",0,NA,NA
+796,2017-01-28,"Sales Associate","M","Management",4,"FT",85986,8160,"College",40,4,1,"white",0,NA,NA
+797,2017-01-28,"Financial Analyst","M","Sales",2,"FT",78132,8035,"Masters",30,1,0,"white",0,NA,NA
+798,2017-01-28,"Manager","M","Operations",6,"FT",135073,6898,"Masters",41,3,0,"white",1,NA,NA
+799,2017-01-28,"Driver","F","Operations",4,"FT",78751,6258,"High School",39,2,0,"white",0,NA,NA
+800,2017-01-28,"Software Engineer","M","Sales",1,"FT",118231,7440,"College",47,1,0,"african american",0,NA,NA
+801,2017-01-28,"Data Scientist","M","Operations",4,"FT",86651,7250,"College",40,1,0,"white",0,NA,NA
+802,2017-01-28,"IT","F","Management",4,"FT",75518,6711,"Masters",30,4,1,"white",0,NA,NA
+803,2017-01-28,"Data Scientist","M","Management",4,"FT",114693,6832,"Masters",38,3,0,"white",0,NA,NA
+804,2017-01-28,"Financial Analyst","M","Engineering",6,"FT",116875,5479,"Masters",38,3,1,"white",1,NA,NA
+805,2017-01-28,"IT","M","Administration",2,"FT",64468,8113,"College",32,1,0,"white",0,NA,NA
+806,2017-01-28,"Marketing Associate","M","Sales",5,"FT",116834,5516,"College",47,2,0,"white",1,NA,NA
+807,2017-01-28,"Marketing Associate","F","Management",2,"FT",75294,6496,"Masters",30,4,0,"asian",0,NA,NA
+808,2017-01-28,"Graphic Designer","F","Management",4,"FT",127608,6558,"College",48,3,0,"white",0,NA,NA
+809,2017-01-28,"Financial Analyst","F","Sales",5,"FT",116069,6432,"College",47,3,0,"white",0,NA,NA
+810,2017-01-28,"Driver","F","Engineering",2,"FT",86122,6295,"High School",45,3,0,"white",1,NA,NA
+811,2017-01-28,"Warehouse Associate","M","Management",6,"FT",81988,7160,"College",39,3,0,"white",0,NA,NA
+812,2017-01-28,"Warehouse Associate","F","Sales",3,"FT",68300,5953,"College",33,3,0,"white",0,NA,NA
+813,2017-01-28,"Manager","M","Sales",2,"FT",148178,6777,"College",48,3,0,"white",1,NA,NA
+814,2017-01-28,"Financial Analyst","F","Operations",3,"FT",94590,5327,"Masters",35,1,0,"white",0,NA,NA
+815,2017-01-28,"Sales Associate","F","Engineering",5,"FT",87418,6430,"College",40,5,1,"african american",0,NA,NA
+816,2017-01-28,"Warehouse Associate","M","Administration",6,"FT",68384,7443,"College",33,1,0,"african american",0,NA,NA
+817,2017-01-28,"Manager","M","Operations",2,"FT",106056,4161,"Masters",38,3,0,"white",0,NA,NA
+818,2017-01-28,"Software Engineer","M","Management",1,"FT",110886,6228,"Masters",39,2,1,"african american",0,NA,NA
+819,2017-01-28,"Graphic Designer","F","Management",2,"FT",104082,5477,"Masters",39,5,0,"white",0,NA,NA
+820,2017-01-28,"IT","F","Management",3,"FT",94354,7052,"Masters",34,3,1,"white",0,NA,NA
+821,2017-01-28,"Warehouse Associate","M","Engineering",1,"FT",128669,6866,"College",47,1,1,"african american",0,NA,NA
+822,2017-01-28,"Financial Analyst","M","Sales",5,"FT",88725,6243,"Masters",32,4,0,"white",0,NA,NA
+823,2017-01-28,"Manager","M","Engineering",3,"FT",149771,5495,"Masters",42,4,0,"white",0,NA,NA
+824,2017-01-28,"Financial Analyst","M","Management",2,"FT",98535,8001,"Masters",35,4,0,"african american",0,NA,NA
+825,2017-01-28,"Data Scientist","F","Sales",5,"FT",90713,6552,"PhD",32,3,0,"white",0,NA,NA
+826,2017-01-28,"IT","M","Management",6,"FT",88749,7433,"College",41,3,1,"white",1,NA,NA
+827,2017-01-28,"Graphic Designer","M","Operations",2,"FT",126100,6336,"Masters",41,2,0,"white",0,NA,NA
+828,2017-01-28,"Manager","M","Sales",2,"FT",110594,6753,"College",46,3,0,"african american",0,NA,NA
+829,2017-01-28,"Manager","M","Management",5,"FT",157644,7213,"College",48,2,0,"white",0,NA,NA
+830,2017-01-28,"Manager","F","Management",2,"FT",113009,6812,"College",46,4,1,"white",1,NA,NA
+831,2017-01-28,"Financial Analyst","M","Engineering",6,"FT",105601,5943,"Masters",39,3,1,"white",0,NA,NA
+832,2017-01-28,"Financial Analyst","M","Engineering",2,"FT",100769,6453,"College",45,5,0,"asian",0,NA,NA
+833,2017-01-28,"Warehouse Associate","M","Administration",1,"FT",82244,6020,"High School",44,3,0,"white",0,NA,NA
+834,2017-01-28,"Marketing Associate","F","Administration",1,"FT",72030,5569,"College",34,5,0,"white",0,NA,NA
+835,2017-01-28,"Driver","F","Management",2,"FT",66203,5627,"High School",39,2,0,"white",0,NA,NA
+836,2017-01-28,"Driver","F","Management",4,"FT",67210,5662,"College",32,3,0,"white",0,NA,NA
+837,2017-01-28,"Manager","F","Management",3,"FT",115383,5878,"Masters",38,3,0,"white",0,NA,NA
+838,2017-01-28,"Graphic Designer","F","Engineering",6,"FT",120697,7205,"PhD",39,3,1,"white",0,NA,NA
+839,2017-01-28,"Graphic Designer","M","Operations",1,"FT",70311,6235,"College",34,3,0,"white",0,NA,NA
+840,2017-01-28,"Data Scientist","F","Engineering",4,"FT",125770,7301,"College",48,2,1,"white",0,NA,NA
+841,2017-01-28,"Warehouse Associate","M","Engineering",5,"FT",100465,5520,"College",45,3,0,"white",0,NA,NA
+842,2017-01-28,"Software Engineer","M","Administration",5,"FT",83264,6251,"College",39,3,0,"african american",0,NA,NA
+843,2017-01-28,"Warehouse Associate","M","Engineering",3,"FT",126375,6630,"Masters",41,3,0,"white",0,NA,NA
+844,2017-01-28,"Driver","M","Engineering",3,"FT",43076,5829,"College",30,3,0,"white",0,NA,NA
+845,2017-01-28,"Data Scientist","F","Sales",5,"FT",97846,7198,"College",42,4,0,"white",0,NA,NA
+846,2017-01-28,"Sales Associate","F","Management",2,"FT",76522,6900,"College",35,2,0,"white",0,NA,NA
+847,2017-01-28,"Driver","M","Operations",5,"FT",111726,5989,"College",46,2,0,"white",0,NA,NA
+848,2017-01-28,"Sales Associate","M","Administration",4,"FT",112188,6689,"College",46,4,0,"white",0,NA,NA
+849,2017-01-28,"Data Scientist","M","Operations",5,"FT",98959,6572,"Masters",35,4,0,"white",0,NA,NA
+850,2017-01-28,"Sales Associate","F","Management",6,"FT",87131,6356,"College",40,4,1,"white",0,NA,NA
+851,2017-01-28,"IT","M","Administration",4,"FT",77881,5569,"College",36,4,0,"white",1,NA,NA
+852,2017-01-28,"IT","M","Engineering",2,"FT",65225,6462,"Masters",29,5,0,"white",1,NA,NA
+853,2017-01-28,"Driver","M","Operations",2,"FT",78472,8439,"High School",40,5,1,"white",0,NA,NA
+854,2017-01-28,"Financial Analyst","M","Operations",5,"FT",126269,6490,"College",48,2,0,"white",1,NA,NA
+855,2017-01-28,"Warehouse Associate","M","Management",3,"FT",106233,5792,"High School",49,3,0,"white",1,NA,NA
+856,2017-01-28,"IT","F","Sales",2,"FT",56656,5914,"College",31,3,0,"white",0,NA,NA
+857,2017-01-28,"IT","F","Engineering",3,"FT",70157,6016,"College",34,2,0,"white",0,NA,NA
+858,2017-01-28,"Data Scientist","F","Engineering",1,"FT",98366,6398,"PhD",33,3,1,"african american",0,NA,NA
+859,2017-01-28,"Manager","M","Engineering",3,"FT",127013,6124,"College",48,2,0,"white",0,NA,NA
+860,2017-01-28,"Software Engineer","M","Management",4,"FT",106146,6618,"College",46,4,0,"white",0,NA,NA
+861,2017-01-28,"Manager","M","Operations",1,"FT",90736,6219,"Masters",34,4,0,"white",0,NA,NA
+862,2017-01-28,"Graphic Designer","M","Sales",6,"FT",66611,5924,"College",32,3,0,"white",0,NA,NA
+863,2017-01-28,"Manager","M","Operations",3,"FT",150914,5982,"PhD",40,3,0,"white",0,NA,NA
+864,2017-01-28,"Graphic Designer","M","Management",2,"FT",70559,6497,"Masters",30,2,0,"white",0,NA,NA
+865,2017-01-28,"Data Scientist","F","Sales",1,"FT",73798,6224,"Masters",30,3,0,"white",0,NA,NA
+866,2017-01-28,"Graphic Designer","M","Sales",4,"FT",69734,5383,"College",33,5,0,"african american",0,NA,NA
+867,2017-01-28,"Marketing Associate","F","Sales",1,"FT",94763,5668,"College",42,4,1,"african american",0,NA,NA
+868,2017-01-28,"Financial Analyst","F","Administration",2,"FT",101534,6861,"College",45,4,0,"white",0,NA,NA
+869,2017-01-28,"Graphic Designer","M","Management",1,"FT",91504,5136,"College",45,3,0,"african american",0,NA,NA
+870,2017-01-28,"Sales Associate","F","Management",2,"FT",90426,5020,"College",42,3,0,"white",0,NA,NA
+871,2017-01-28,"Manager","M","Operations",5,"FT",100183,6363,"College",46,3,0,"white",0,NA,NA
+872,2017-01-28,"IT","F","Operations",2,"FT",99369,6746,"College",43,3,0,"white",0,NA,NA
+873,2017-01-28,"Graphic Designer","F","Operations",4,"FT",55845,6616,"College",30,1,0,"white",0,NA,NA
+874,2017-01-28,"Financial Analyst","F","Administration",1,"FT",48570,6604,"College",29,4,0,"white",0,NA,NA
+875,2017-01-28,"Data Scientist","M","Engineering",1,"FT",98165,5470,"Masters",34,2,0,"asian",0,NA,NA
+876,2017-01-28,"Data Scientist","F","Operations",2,"FT",113274,6186,"Masters",37,4,0,"african american",0,NA,NA
+877,2017-01-28,"Software Engineer","M","Engineering",2,"FT",95754,6596,"Masters",35,3,0,"african american",0,NA,NA
+878,2017-01-28,"Data Scientist","M","Engineering",2,"FT",57915,4584,"College",31,4,0,"white",0,NA,NA
+879,2017-01-28,"Manager","M","Sales",2,"FT",121506,6122,"College",48,2,0,"white",0,NA,NA
+880,2017-01-28,"Manager","M","Management",2,"FT",121151,5934,"Masters",41,3,1,"white",0,NA,NA
+881,2017-01-28,"Marketing Associate","F","Management",4,"FT",86241,5814,"College",40,5,0,"white",0,NA,NA
+882,2017-01-28,"Data Scientist","M","Management",2,"FT",87682,4152,"Masters",34,2,0,"white",0,NA,NA
+883,2017-01-28,"Software Engineer","M","Administration",2,"FT",114029,6842,"College",47,5,0,"white",0,NA,NA
+884,2017-01-28,"IT","M","Management",5,"FT",67323,4680,"College",32,4,1,"white",0,NA,NA
+885,2017-01-28,"Data Scientist","M","Management",2,"FT",68049,6660,"College",32,5,0,"white",0,NA,NA
+886,2017-01-28,"IT","M","Engineering",4,"FT",93335,5243,"College",41,4,0,"asian",1,NA,NA
+887,2017-01-28,"Driver","F","Operations",2,"FT",100433,5090,"College",45,3,0,"white",0,NA,NA
+888,2017-01-28,"Marketing Associate","F","Operations",2,"FT",123242,5453,"Masters",41,3,0,"white",0,NA,NA
+889,2017-01-28,"Sales Associate","F","Administration",1,"FT",87585,6476,"College",40,3,0,"white",0,NA,NA
+890,2017-01-28,"IT","F","Sales",4,"FT",45747,4890,"College",29,1,0,"african american",1,NA,NA
+891,2017-01-28,"Marketing Associate","F","Administration",5,"FT",36972,7058,"College",26,1,0,"african american",0,NA,NA
+892,2017-01-28,"Sales Associate","F","Management",6,"FT",64754,7377,"High School",38,2,1,"white",0,NA,NA
+893,2017-01-28,"IT","F","Operations",5,"FT",132267,5679,"PhD",39,4,1,"white",0,NA,NA
+894,2017-01-28,"Driver","M","Administration",4,"FT",111043,5838,"College",46,4,0,"white",0,NA,NA
+895,2017-01-28,"Warehouse Associate","M","Engineering",1,"FT",58130,6327,"College",32,2,0,"white",0,NA,NA
+896,2017-01-28,"IT","M","Operations",4,"FT",90542,7554,"Masters",34,4,0,"white",0,NA,NA
+897,2017-01-28,"Manager","M","Administration",1,"FT",124891,5436,"College",48,5,0,"other",0,NA,NA
+898,2017-01-28,"Marketing Associate","F","Engineering",2,"FT",112507,7460,"College",46,2,0,"white",0,NA,NA
+899,2017-01-28,"Marketing Associate","F","Sales",5,"FT",100316,6010,"College",45,5,0,"white",0,NA,NA
+900,2017-01-28,"Software Engineer","M","Engineering",5,"FT",134757,5944,"PhD",39,5,0,"white",0,NA,NA
+901,2017-01-28,"Manager","M","Sales",5,"FT",125339,6019,"College",48,3,0,"african american",0,NA,NA
+902,2017-01-28,"IT","F","Management",1,"FT",111120,6536,"College",46,4,0,"white",0,NA,NA
+903,2017-01-28,"Data Scientist","F","Operations",1,"FT",76523,7122,"Masters",30,5,1,"african american",0,NA,NA
+904,2017-01-28,"Driver","F","Operations",2,"FT",91160,5863,"College",45,5,0,"white",0,NA,NA
+905,2017-01-28,"Manager","M","Sales",3,"FT",105795,6179,"College",46,2,0,"other",0,NA,NA
+906,2017-01-28,"Financial Analyst","F","Operations",4,"FT",66935,6508,"College",32,3,0,"white",0,NA,NA
+907,2017-01-28,"Sales Associate","M","Management",1,"FT",75238,5308,"College",34,3,0,"white",1,NA,NA
+908,2017-01-28,"Data Scientist","F","Sales",2,"FT",138365,5359,"Masters",42,2,1,"white",0,NA,NA
+909,2017-01-28,"Software Engineer","M","Management",6,"FT",103978,5146,"College",46,2,0,"white",0,NA,NA
+910,2017-01-28,"IT","M","Sales",4,"FT",165229,6506,"Masters",42,2,0,"white",0,NA,NA
+911,2017-01-28,"Warehouse Associate","M","Engineering",5,"FT",118322,5224,"Masters",40,4,0,"white",0,NA,NA
+912,2017-01-28,"Graphic Designer","M","Operations",5,"FT",106883,5831,"Masters",38,3,0,"white",0,NA,NA
+913,2017-01-28,"Marketing Associate","F","Management",2,"FT",59006,5876,"College",31,3,0,"white",0,NA,NA
+914,2017-01-28,"Manager","M","Engineering",2,"FT",125164,5888,"College",48,2,0,"white",0,NA,NA
+915,2017-01-28,"Software Engineer","M","Operations",1,"FT",89225,5751,"College",42,4,0,"white",0,NA,NA
+916,2017-01-28,"Driver","M","Sales",6,"FT",101716,5881,"High School",48,4,0,"white",0,NA,NA
+917,2017-01-28,"Marketing Associate","F","Sales",1,"FT",74305,7126,"Masters",30,3,0,"white",0,NA,NA
+918,2017-01-28,"Marketing Associate","F","Administration",2,"FT",38451,5562,"College",26,3,0,"white",0,NA,NA
+919,2017-01-28,"Graphic Designer","F","Operations",2,"FT",113465,3846,"College",46,1,0,"white",0,NA,NA
+920,2017-01-28,"Sales Associate","F","Operations",5,"FT",66377,5803,"College",33,1,0,"african american",0,NA,NA
+921,2017-01-28,"Financial Analyst","M","Engineering",2,"FT",79142,5445,"College",36,3,0,"white",0,NA,NA
+922,2017-01-28,"Graphic Designer","F","Operations",4,"FT",55569,5236,"Masters",28,4,0,"asian",1,NA,NA
+923,2017-01-28,"Graphic Designer","M","Engineering",4,"FT",97240,5412,"Masters",34,3,0,"white",1,NA,NA
+924,2017-01-28,"Manager","F","Management",4,"FT",119033,6381,"College",48,3,0,"white",0,NA,NA
+925,2017-01-28,"Marketing Associate","F","Administration",4,"FT",106315,5618,"Masters",38,3,1,"white",0,NA,NA
+926,2017-01-28,"Driver","M","Engineering",1,"FT",81301,5713,"College",41,3,0,"white",0,NA,NA
+927,2017-01-28,"Software Engineer","M","Management",5,"FT",79462,4673,"Masters",30,3,1,"white",0,NA,NA
+928,2017-01-28,"IT","F","Sales",5,"FT",105598,5380,"PhD",37,2,0,"asian",0,NA,NA
+929,2017-01-28,"Data Scientist","M","Operations",6,"FT",72497,6452,"Masters",30,4,1,"white",0,NA,NA
+930,2017-01-28,"Financial Analyst","F","Management",4,"FT",78084,5598,"College",36,1,0,"white",0,NA,NA
+931,2017-01-28,"Graphic Designer","M","Management",4,"FT",84803,5406,"Masters",33,2,0,"african american",1,NA,NA
+932,2017-01-28,"Graphic Designer","F","Administration",5,"FT",41603,6092,"College",27,1,0,"african american",0,NA,NA
+933,2017-01-28,"Driver","F","Operations",6,"FT",78002,5175,"High School",39,2,0,"white",1,NA,NA
+934,2017-01-28,"Warehouse Associate","M","Administration",1,"FT",79274,4618,"Masters",30,4,1,"white",0,NA,NA
+935,2017-01-28,"IT","M","Management",6,"FT",49622,5452,"College",29,4,0,"white",0,NA,NA
+936,2017-01-28,"Sales Associate","M","Management",2,"FT",129620,5608,"College",47,5,0,"white",1,NA,NA
+937,2017-01-28,"Software Engineer","M","Administration",2,"FT",87848,5166,"College",40,3,0,"white",0,NA,NA
+938,2017-01-28,"Driver","M","Management",5,"FT",51906,6274,"College",31,4,0,"asian",0,NA,NA
+939,2017-01-28,"Sales Associate","F","Engineering",1,"FT",81866,5183,"High School",44,5,0,"african american",0,NA,NA
+940,2017-01-28,"Financial Analyst","M","Engineering",2,"FT",71590,5845,"College",34,3,1,"white",0,NA,NA
+941,2017-01-28,"Warehouse Associate","M","Sales",2,"FT",63928,4998,"High School",37,3,0,"white",1,NA,NA
+942,2017-01-28,"Driver","M","Administration",5,"FT",83333,7113,"High School",44,3,0,"white",0,NA,NA
+943,2017-01-28,"Marketing Associate","M","Administration",3,"FT",92797,5405,"College",43,3,0,"white",1,NA,NA
+944,2017-01-28,"Financial Analyst","M","Operations",2,"FT",93067,5103,"Masters",34,3,0,"white",0,NA,NA
+945,2017-01-28,"Graphic Designer","M","Sales",5,"FT",72422,5697,"College",34,4,0,"white",0,NA,NA
+946,2017-01-28,"Driver","M","Operations",4,"FT",120159,4265,"College",48,3,1,"white",0,NA,NA
+947,2017-01-28,"Data Scientist","F","Operations",5,"FT",91711,6775,"Masters",35,4,0,"white",0,NA,NA
+948,2017-01-28,"Marketing Associate","F","Sales",2,"FT",93805,6044,"Masters",34,4,1,"white",0,NA,NA
+949,2017-01-28,"Marketing Associate","F","Operations",5,"FT",109931,5878,"Masters",39,5,0,"african american",0,NA,NA
+950,2017-01-28,"Marketing Associate","F","Administration",5,"FT",88365,4668,"College",40,2,0,"other",0,NA,NA
+951,2017-01-28,"Financial Analyst","M","Operations",1,"FT",104744,6425,"Masters",39,2,0,"asian",0,NA,NA
+952,2017-01-28,"Warehouse Associate","F","Administration",2,"FT",79334,6505,"High School",39,5,0,"white",0,NA,NA
+953,2017-01-28,"Driver","M","Administration",1,"FT",95795,4898,"High School",47,5,0,"african american",0,NA,NA
+954,2017-01-28,"Financial Analyst","F","Engineering",5,"FT",98512,4548,"Masters",35,2,0,"white",0,NA,NA
+955,2017-01-28,"Data Scientist","F","Operations",2,"FT",78910,5927,"Masters",30,4,0,"white",0,NA,NA
+956,2017-01-28,"Manager","M","Management",3,"FT",103156,6277,"College",45,3,0,"white",0,NA,NA
+957,2017-01-28,"Driver","M","Administration",4,"FT",92760,4826,"High School",49,4,1,"white",0,NA,NA
+958,2017-01-28,"Warehouse Associate","F","Operations",4,"FT",125574,5688,"Masters",41,4,0,"white",0,NA,NA
+959,2017-01-28,"Data Scientist","M","Operations",5,"FT",93742,6580,"College",42,2,0,"white",0,NA,NA
+960,2017-01-28,"Sales Associate","M","Engineering",2,"FT",124470,5454,"Masters",41,3,1,"white",0,NA,NA
+961,2017-01-28,"Software Engineer","M","Engineering",4,"FT",132323,4872,"Masters",41,4,1,"white",0,NA,NA
+962,2017-01-28,"Sales Associate","M","Sales",5,"FT",70595,5234,"College",34,2,0,"white",0,NA,NA
+963,2017-01-28,"Software Engineer","M","Operations",5,"FT",71278,4701,"Masters",30,4,0,"white",0,NA,NA
+964,2017-01-28,"Data Scientist","M","Engineering",2,"FT",53855,4980,"College",30,3,0,"african american",0,NA,NA
+965,2017-01-28,"IT","M","Management",6,"FT",98423,3879,"College",43,5,0,"white",0,NA,NA
+966,2017-01-28,"Software Engineer","M","Operations",3,"FT",126239,5396,"Masters",41,3,0,"white",0,NA,NA
+967,2017-01-28,"Sales Associate","M","Management",2,"FT",101133,4700,"Masters",37,5,0,"white",0,NA,NA
+968,2017-01-28,"Warehouse Associate","M","Administration",6,"FT",92516,5866,"High School",48,5,0,"white",0,NA,NA
+969,2017-01-28,"Data Scientist","M","Administration",2,"FT",93320,7236,"College",41,2,0,"other",0,NA,NA
+970,2017-01-28,"Warehouse Associate","F","Administration",1,"FT",106963,5084,"High School",49,3,0,"african american",0,NA,NA
+971,2017-01-28,"IT","F","Sales",4,"FT",111770,5345,"PhD",36,5,0,"white",0,NA,NA
+972,2017-01-28,"IT","M","Engineering",5,"FT",106584,5426,"Masters",38,4,0,"white",0,NA,NA
+973,2017-01-28,"Marketing Associate","F","Operations",4,"FT",57672,6476,"College",31,3,0,"white",0,NA,NA
+974,2017-01-28,"Warehouse Associate","M","Administration",2,"FT",90612,5913,"Masters",34,5,0,"white",0,NA,NA
+975,2017-01-28,"Graphic Designer","F","Engineering",2,"FT",97768,7233,"College",42,1,0,"african american",0,NA,NA
+976,2017-01-28,"Financial Analyst","M","Administration",2,"FT",82790,5826,"College",39,3,0,"asian",0,NA,NA
+977,2017-01-28,"Graphic Designer","F","Administration",2,"FT",76103,5173,"Masters",30,3,0,"white",0,NA,NA
+978,2017-01-28,"Financial Analyst","M","Administration",2,"FT",84628,5680,"Masters",33,4,0,"african american",0,NA,NA
+979,2017-01-28,"Warehouse Associate","F","Management",2,"FT",93441,5499,"College",41,5,1,"white",0,NA,NA
+980,2017-01-28,"Marketing Associate","M","Management",4,"FT",110636,5239,"Masters",39,3,0,"white",0,NA,NA
+981,2017-01-28,"Data Scientist","F","Administration",4,"FT",108366,5108,"PhD",37,1,0,"white",0,NA,NA
+982,2017-01-28,"Manager","M","Management",5,"FT",135106,5066,"Masters",41,4,0,"white",0,NA,NA
+983,2017-01-28,"Warehouse Associate","F","Administration",5,"FT",85453,5135,"College",39,1,0,"white",0,NA,NA
+984,2017-01-28,"Graphic Designer","M","Management",4,"FT",100160,5562,"College",46,3,0,"white",0,NA,NA
+985,2017-01-28,"Data Scientist","F","Administration",4,"FT",79765,5329,"College",36,3,0,"african american",1,NA,NA
+986,2017-01-28,"Manager","M","Engineering",2,"FT",157169,5798,"PhD",40,4,0,"white",1,NA,NA
+987,2017-01-28,"Financial Analyst","F","Engineering",6,"FT",129683,5754,"PhD",39,3,0,"white",0,NA,NA
+988,2017-01-28,"Financial Analyst","F","Management",1,"FT",76908,4756,"College",35,2,0,"white",0,NA,NA
+989,2017-01-28,"Financial Analyst","F","Management",2,"FT",93696,5029,"College",41,3,0,"white",0,NA,NA
+990,2017-01-28,"Driver","M","Sales",5,"FT",88230,5512,"High School",45,3,1,"white",0,NA,NA
+991,2017-01-28,"Sales Associate","F","Management",5,"FT",83095,5284,"Masters",33,3,0,"white",0,NA,NA
+992,2017-01-28,"IT","F","Sales",4,"FT",81325,5647,"College",38,3,1,"white",0,NA,NA
+993,2017-01-28,"Warehouse Associate","F","Engineering",4,"FT",102106,5195,"College",45,3,0,"white",0,NA,NA
+994,2017-01-28,"Graphic Designer","F","Engineering",1,"FT",80635,4322,"Masters",30,4,1,"white",1,NA,NA
+995,2017-01-28,"Marketing Associate","F","Sales",3,"FT",73404,5038,"College",34,3,0,"white",0,NA,NA
+996,2017-01-28,"Data Scientist","M","Sales",1,"FT",83674,4854,"College",38,3,0,"white",0,NA,NA
+997,2017-01-28,"IT","M","Engineering",2,"FT",118314,4892,"Masters",40,2,0,"white",0,NA,NA
+998,2017-01-28,"Graphic Designer","F","Sales",2,"FT",133741,4925,"Masters",41,2,0,"white",0,NA,NA
+999,2017-01-28,"Software Engineer","M","Sales",1,"FT",119522,4650,"PhD",39,3,0,"white",0,NA,NA
+1000,2017-01-28,"Sales Associate","M","Administration",1,"FT",84592,4635,"High School",44,5,0,"white",0,NA,NA
+1001,2017-01-28,"Sales Associate","M","Sales",2,"FT",121589,5133,"Masters",41,5,0,"white",0,NA,NA
+1002,2017-01-28,"Manager","F","Engineering",1,"FT",104329,4962,"High School",49,5,0,"white",0,NA,NA
+1003,2017-01-28,"Warehouse Associate","M","Engineering",6,"FT",71371,5220,"College",34,4,0,"white",0,NA,NA
+1004,2017-01-28,"Data Scientist","M","Sales",3,"FT",96582,6350,"Masters",35,5,1,"white",0,NA,NA
+1005,2017-01-28,"Data Scientist","M","Sales",1,"FT",108778,4357,"PhD",37,3,0,"african american",0,NA,NA
+1006,2017-01-28,"Driver","M","Management",1,"FT",128520,6151,"College",47,3,0,"white",0,NA,NA
+1007,2017-01-28,"Sales Associate","F","Management",2,"FT",102745,6303,"College",45,3,0,"white",0,NA,NA
+1008,2017-01-28,"Manager","F","Administration",2,"FT",146008,6235,"Masters",42,2,0,"white",1,NA,NA
+1009,2017-01-28,"Marketing Associate","F","Management",2,"FT",68364,4076,"College",33,3,0,"white",0,NA,NA
+1010,2017-01-28,"Driver","M","Administration",5,"FT",62753,5735,"High School",37,5,1,"white",0,NA,NA
+1011,2017-01-28,"Data Scientist","F","Administration",2,"FT",96584,5293,"PhD",32,4,0,"african american",1,NA,NA
+1012,2017-01-28,"Software Engineer","M","Engineering",1,"FT",128680,4677,"Masters",41,1,0,"white",0,NA,NA
+1013,2017-01-28,"Manager","M","Management",5,"FT",152710,6107,"College",48,3,0,"white",0,NA,NA
+1014,2017-01-28,"Software Engineer","M","Operations",2,"FT",109136,4572,"College",47,4,1,"white",0,NA,NA
+1015,2017-01-28,"Data Scientist","F","Operations",5,"FT",102265,4760,"PhD",36,1,0,"white",0,NA,NA
+1016,2017-01-28,"Marketing Associate","F","Management",4,"FT",81249,4845,"College",41,3,0,"white",0,NA,NA
+1017,2017-01-28,"IT","F","Management",1,"FT",101791,6083,"Masters",37,4,0,"white",0,NA,NA
+1018,2017-01-28,"Marketing Associate","F","Sales",5,"FT",77584,4524,"College",36,2,0,"african american",0,NA,NA
+1019,2017-01-28,"Driver","F","Administration",5,"FT",88175,5004,"High School",45,4,0,"white",0,NA,NA
+1020,2017-01-28,"Data Scientist","F","Engineering",1,"FT",65816,6817,"Masters",29,1,0,"white",0,NA,NA
+1021,2017-01-28,"IT","M","Sales",2,"FT",84878,5009,"Masters",33,4,0,"white",0,NA,NA
+1022,2017-01-28,"Marketing Associate","F","Engineering",2,"FT",73685,4439,"College",34,2,1,"white",0,NA,NA
+1023,2017-01-28,"IT","F","Administration",5,"FT",55560,4449,"Masters",28,3,0,"white",0,NA,NA
+1024,2017-01-28,"Software Engineer","M","Administration",2,"FT",94745,5930,"Masters",35,1,1,"white",1,NA,NA
+1025,2017-01-28,"Data Scientist","F","Sales",2,"FT",106452,5346,"PhD",36,3,1,"african american",0,NA,NA
+1026,2017-01-28,"Sales Associate","M","Management",5,"FT",95505,4549,"College",42,3,0,"white",0,NA,NA
+1027,2017-01-28,"Software Engineer","M","Engineering",4,"FT",103181,4566,"Masters",38,2,0,"white",1,NA,NA
+1028,2017-01-28,"Software Engineer","M","Sales",5,"FT",120096,4690,"Masters",41,3,0,"african american",0,NA,NA
+1029,2017-01-28,"Warehouse Associate","F","Administration",2,"FT",87575,4422,"College",40,3,0,"white",0,NA,NA
+1030,2017-01-28,"Sales Associate","M","Management",5,"FT",98499,6274,"High School",48,3,0,"white",1,NA,NA
+1031,2017-01-28,"Driver","F","Sales",3,"FT",113140,4079,"College",46,5,0,"white",0,NA,NA
+1032,2017-01-28,"Manager","M","Administration",2,"FT",152081,4621,"PhD",40,4,1,"african american",0,NA,NA
+1033,2017-01-28,"Data Scientist","F","Management",5,"FT",100505,4626,"Masters",37,3,0,"white",1,NA,NA
+1034,2017-01-28,"IT","F","Management",1,"FT",104589,4536,"Masters",38,4,0,"white",0,NA,NA
+1035,2017-01-28,"Manager","M","Sales",1,"FT",134450,5214,"Masters",41,4,0,"white",0,NA,NA
+1036,2017-01-28,"IT","F","Management",2,"FT",61081,6337,"College",32,2,0,"white",1,NA,NA
+1037,2017-01-28,"Manager","M","Operations",5,"FT",100819,5390,"College",45,4,1,"african american",0,NA,NA
+1038,2017-01-28,"Software Engineer","M","Sales",5,"FT",157277,4844,"PhD",40,5,0,"white",0,NA,NA
+1039,2017-01-28,"Marketing Associate","F","Management",3,"FT",79237,4453,"College",36,2,0,"white",0,NA,NA
+1040,2017-01-28,"Driver","M","Sales",1,"FT",68175,5698,"College",34,4,1,"white",0,NA,NA
+1041,2017-01-28,"Driver","F","Management",4,"FT",108475,4489,"College",47,2,0,"other",0,NA,NA
+1042,2017-01-28,"Software Engineer","M","Sales",5,"FT",122624,4165,"College",48,3,0,"white",0,NA,NA
+1043,2017-01-28,"Graphic Designer","F","Management",5,"FT",99942,5352,"College",45,3,0,"white",0,NA,NA
+1044,2017-01-28,"Data Scientist","F","Engineering",1,"FT",108296,4708,"PhD",37,2,1,"white",0,NA,NA
+1045,2017-01-28,"Graphic Designer","M","Management",3,"FT",101273,3817,"Masters",37,4,0,"white",0,NA,NA
+1046,2017-01-28,"Sales Associate","M","Administration",6,"FT",59334,5729,"College",31,4,0,"white",0,NA,NA
+1047,2017-01-28,"Manager","M","Management",1,"FT",152625,4702,"PhD",40,5,0,"white",0,NA,NA
+1048,2017-01-28,"IT","F","Sales",4,"FT",126370,6032,"College",48,1,0,"white",0,NA,NA
+1049,2017-01-28,"Financial Analyst","F","Administration",4,"FT",122142,5435,"Masters",41,1,0,"white",0,NA,NA
+1050,2017-01-28,"Driver","F","Operations",1,"FT",75919,5613,"High School",38,4,0,"white",0,NA,NA
+1051,2017-01-28,"Data Scientist","M","Operations",1,"FT",90526,4191,"Masters",34,2,0,"white",0,NA,NA
+1052,2017-01-28,"IT","F","Administration",2,"FT",103416,5536,"PhD",36,2,0,"white",0,NA,NA
+1053,2017-01-28,"Manager","M","Engineering",2,"FT",133910,5795,"College",48,4,0,"white",0,NA,NA
+1054,2017-01-28,"Driver","F","Sales",6,"FT",104468,4466,"High School",49,3,0,"african american",0,NA,NA
+1055,2017-01-28,"Sales Associate","F","Management",2,"FT",117202,5068,"High School",49,3,0,"asian",0,NA,NA
+1056,2017-01-28,"Data Scientist","F","Sales",2,"FT",139141,4969,"PhD",40,4,1,"white",0,NA,NA
+1057,2017-01-28,"Warehouse Associate","F","Management",2,"FT",134109,4184,"Masters",41,4,0,"white",0,NA,NA
+1058,2017-01-28,"Sales Associate","F","Administration",1,"FT",66887,5014,"High School",38,4,0,"white",0,NA,NA
+1059,2017-01-28,"Data Scientist","M","Operations",2,"FT",77839,4458,"College",36,5,0,"white",0,NA,NA
+1060,2017-01-28,"Driver","M","Sales",4,"FT",61018,5513,"High School",38,5,0,"white",0,NA,NA
+1061,2017-01-28,"IT","F","Sales",3,"FT",124847,3100,"College",48,1,0,"asian",0,NA,NA
+1062,2017-01-28,"Financial Analyst","F","Administration",3,"FT",50758,5386,"College",30,3,0,"african american",1,NA,NA
+1063,2017-01-28,"Graphic Designer","F","Operations",1,"FT",75316,5861,"College",34,2,0,"white",0,NA,NA
+1064,2017-01-28,"Driver","M","Sales",1,"FT",118093,4115,"College",47,3,0,"white",0,NA,NA
+1065,2017-01-28,"Software Engineer","M","Operations",6,"FT",106503,5225,"Masters",38,3,1,"white",0,NA,NA
+1066,2017-01-28,"Graphic Designer","F","Administration",2,"FT",111502,4413,"College",45,4,0,"white",1,NA,NA
+1067,2017-01-28,"Sales Associate","F","Engineering",5,"FT",116642,4621,"Masters",38,2,0,"white",0,NA,NA
+1068,2017-01-28,"Financial Analyst","M","Operations",5,"FT",84683,4476,"College",38,2,0,"white",0,NA,NA
+1069,2017-01-28,"IT","F","Sales",1,"FT",113283,5404,"PhD",36,3,1,"asian",0,NA,NA
+1070,2017-01-28,"Marketing Associate","F","Administration",2,"FT",86538,4212,"College",40,5,0,"white",0,NA,NA
+1071,2017-01-28,"Marketing Associate","F","Engineering",4,"FT",77742,5430,"Masters",30,3,0,"native american",0,NA,NA
+1072,2017-01-28,"Software Engineer","M","Sales",3,"FT",67913,4045,"College",32,4,0,"white",0,NA,NA
+1073,2017-01-28,"Financial Analyst","F","Sales",2,"FT",114171,3768,"College",47,4,0,"asian",0,NA,NA
+1074,2017-01-28,"Manager","M","Engineering",3,"FT",155826,4964,"Masters",42,2,0,"white",0,NA,NA
+1075,2017-01-28,"Graphic Designer","F","Operations",3,"FT",106204,4534,"College",46,3,1,"white",0,NA,NA
+1076,2017-01-28,"Graphic Designer","F","Administration",1,"FT",111041,3727,"College",46,3,0,"white",0,NA,NA
+1077,2017-01-28,"Software Engineer","M","Engineering",1,"FT",138184,4664,"PhD",40,3,0,"white",0,NA,NA
+1078,2017-01-28,"Financial Analyst","F","Sales",5,"FT",95795,5723,"College",42,3,0,"white",0,NA,NA
+1079,2017-01-28,"Sales Associate","M","Administration",6,"FT",106798,5201,"High School",49,3,1,"white",0,NA,NA
+1080,2017-01-28,"Marketing Associate","F","Engineering",6,"FT",98575,5410,"College",43,1,0,"white",0,NA,NA
+1081,2017-01-28,"Warehouse Associate","M","Administration",6,"FT",82343,5232,"Masters",33,3,0,"african american",0,NA,NA
+1082,2017-01-28,"Software Engineer","F","Engineering",2,"FT",117131,2324,"College",47,5,1,"african american",0,NA,NA
+1083,2017-01-28,"Sales Associate","M","Sales",2,"FT",78625,4073,"High School",39,4,0,"african american",0,NA,NA
+1084,2017-01-28,"Financial Analyst","M","Administration",2,"FT",99134,6255,"College",43,4,0,"white",0,NA,NA
+1085,2017-01-28,"Marketing Associate","F","Administration",2,"FT",38613,6079,"College",26,4,0,"african american",0,NA,NA
+1086,2017-01-28,"Marketing Associate","F","Operations",4,"FT",62866,5114,"College",32,3,0,"white",0,NA,NA
+1087,2017-01-28,"Graphic Designer","M","Engineering",2,"FT",107818,5281,"Masters",39,4,0,"white",0,NA,NA
+1088,2017-01-28,"Graphic Designer","F","Operations",4,"FT",108731,4793,"College",47,2,0,"african american",0,NA,NA
+1089,2017-01-28,"Manager","M","Management",6,"FT",114621,3927,"College",47,3,0,"white",0,NA,NA
+1090,2017-01-28,"Marketing Associate","F","Sales",1,"FT",47739,4829,"College",29,5,0,"white",0,NA,NA
+1091,2017-01-28,"Data Scientist","M","Operations",6,"FT",104290,3474,"Masters",39,3,1,"white",0,NA,NA
+1092,2017-01-28,"Financial Analyst","M","Sales",4,"FT",111403,5078,"Masters",38,2,0,"white",0,NA,NA
+1093,2017-01-28,"IT","M","Administration",1,"FT",93802,5404,"College",42,3,1,"african american",0,NA,NA
+1094,2017-01-28,"Manager","M","Sales",5,"FT",138163,3415,"High School",50,4,0,"white",0,NA,NA
+1095,2017-01-28,"Financial Analyst","M","Operations",5,"FT",115613,3881,"Masters",38,2,0,"white",0,NA,NA
+1096,2017-01-28,"Sales Associate","F","Engineering",2,"FT",64920,4967,"College",32,2,0,"white",0,NA,NA
+1097,2017-01-28,"Software Engineer","F","Management",4,"FT",79177,3661,"College",36,5,0,"white",0,NA,NA
+1098,2017-01-28,"Warehouse Associate","M","Operations",1,"FT",64994,4310,"College",32,3,0,"white",1,NA,NA
+1099,2017-01-28,"Driver","M","Sales",1,"FT",100941,5992,"College",45,3,0,"white",0,NA,NA
+1100,2017-01-28,"Manager","M","Management",4,"FT",163208,4095,"High School",50,4,1,"white",0,NA,NA
+1101,2017-01-28,"Sales Associate","M","Operations",2,"FT",51837,4472,"College",31,3,0,"african american",0,NA,NA
+1102,2017-01-28,"Graphic Designer","M","Management",6,"FT",114048,5097,"Masters",38,5,0,"african american",0,NA,NA
+1103,2017-01-28,"Manager","F","Management",1,"FT",136215,3603,"High School",50,3,0,"white",0,NA,NA
+1104,2017-01-28,"Marketing Associate","F","Administration",3,"FT",63327,4066,"College",32,1,0,"white",0,NA,NA
+1105,2017-01-28,"Software Engineer","M","Engineering",6,"FT",139068,4126,"PhD",40,3,0,"african american",0,NA,NA
+1106,2017-01-28,"Sales Associate","M","Engineering",2,"FT",136209,3910,"Masters",42,3,0,"white",0,NA,NA
+1107,2017-01-28,"Software Engineer","M","Management",6,"FT",121910,4494,"PhD",39,4,0,"white",0,NA,NA
+1108,2017-01-28,"Graphic Designer","M","Management",2,"FT",82057,5268,"Masters",33,3,0,"white",0,NA,NA
+1109,2017-01-28,"Sales Associate","M","Engineering",4,"FT",96023,4148,"College",42,3,0,"white",0,NA,NA
+1110,2017-01-28,"Marketing Associate","F","Sales",4,"FT",52578,5538,"College",30,3,0,"white",0,NA,NA
+1111,2017-01-28,"Driver","F","Administration",2,"FT",114436,4249,"College",47,4,1,"african american",0,NA,NA
+1112,2017-01-28,"Marketing Associate","F","Sales",1,"FT",99543,4442,"Masters",37,1,0,"white",0,NA,NA
+1113,2017-01-28,"Sales Associate","F","Sales",6,"FT",60983,5022,"College",32,2,0,"white",0,NA,NA
+1114,2017-01-28,"Software Engineer","M","Administration",2,"FT",82277,5460,"Masters",33,3,1,"white",0,NA,NA
+1115,2017-01-28,"Marketing Associate","F","Sales",2,"FT",55885,3795,"College",30,3,0,"white",0,NA,NA
+1116,2017-01-28,"Graphic Designer","M","Operations",3,"FT",73142,4712,"Masters",30,4,0,"white",0,NA,NA
+1117,2017-01-28,"Graphic Designer","M","Operations",4,"FT",107065,3652,"College",47,4,1,"white",0,NA,NA
+1118,2017-01-28,"Driver","F","Engineering",5,"FT",107064,4202,"College",47,3,0,"white",0,NA,NA
+1119,2017-01-28,"Marketing Associate","F","Operations",1,"FT",107370,4916,"College",47,3,0,"white",0,NA,NA
+1120,2017-01-28,"Marketing Associate","F","Sales",1,"FT",39741,4981,"College",27,2,0,"african american",0,NA,NA
+1121,2017-01-28,"Sales Associate","M","Management",5,"FT",120579,4687,"High School",49,3,0,"white",0,NA,NA
+1122,2017-01-28,"Driver","F","Engineering",1,"FT",103242,4495,"High School",49,3,0,"pacific islander",0,NA,NA
+1123,2017-01-28,"Driver","F","Sales",6,"FT",120112,5070,"High School",49,3,0,"white",0,NA,NA
+1124,2017-01-28,"Sales Associate","F","Sales",1,"FT",83308,3653,"High School",44,1,0,"white",0,NA,NA
+1125,2017-01-28,"Marketing Associate","F","Management",2,"FT",36585,4373,"College",26,4,1,"asian",0,NA,NA
+1126,2017-01-28,"Graphic Designer","F","Engineering",4,"FT",115344,4827,"College",47,2,0,"white",0,NA,NA
+1127,2017-01-28,"Sales Associate","M","Management",4,"FT",49553,5784,"High School",31,5,0,"white",0,NA,NA
+1128,2017-01-28,"IT","F","Administration",4,"FT",96982,4750,"Masters",34,3,0,"white",0,NA,NA
+1129,2017-01-28,"Financial Analyst","F","Management",5,"FT",80030,5481,"College",36,2,0,"white",0,NA,NA
+1130,2017-01-28,"Driver","M","Sales",5,"FT",110157,4275,"College",46,4,0,"white",0,NA,NA
+1131,2017-01-28,"Financial Analyst","F","Administration",2,"FT",84047,4683,"College",38,3,1,"white",0,NA,NA
+1132,2017-01-28,"Marketing Associate","M","Sales",1,"FT",93054,4243,"College",41,3,0,"white",0,NA,NA
+1133,2017-01-28,"Data Scientist","F","Engineering",5,"FT",84764,4409,"Masters",33,5,0,"white",0,NA,NA
+1134,2017-01-28,"Warehouse Associate","F","Management",1,"FT",120277,4617,"Masters",41,3,0,"white",0,NA,NA
+1135,2017-01-28,"Marketing Associate","F","Sales",5,"FT",81661,4965,"College",37,4,1,"white",0,NA,NA
+1136,2017-01-28,"Manager","F","Engineering",5,"FT",149893,5120,"High School",50,4,0,"white",0,NA,NA
+1137,2017-01-28,"Software Engineer","M","Management",4,"FT",81515,5001,"College",38,4,0,"white",0,NA,NA
+1138,2017-01-28,"Driver","M","Operations",6,"FT",95898,4309,"High School",47,3,0,"white",0,NA,NA
+1139,2017-01-28,"Warehouse Associate","M","Operations",2,"FT",90000,4774,"College",41,2,0,"white",0,NA,NA
+1140,2017-01-28,"Manager","M","Management",2,"FT",111896,5597,"High School",48,3,0,"white",0,NA,NA
+1141,2017-01-28,"Driver","M","Engineering",5,"FT",130082,4734,"High School",49,4,0,"white",0,NA,NA
+1142,2017-01-28,"Sales Associate","F","Engineering",1,"FT",130417,4694,"PhD",39,5,0,"white",1,NA,NA
+1143,2017-01-28,"Marketing Associate","F","Engineering",2,"FT",38855,4503,"College",26,4,0,"white",0,NA,NA
+1144,2017-01-28,"Software Engineer","M","Administration",1,"FT",81057,5259,"College",40,3,0,"african american",0,NA,NA
+1145,2017-01-28,"Data Scientist","M","Management",5,"FT",117215,4322,"College",47,5,0,"african american",0,NA,NA
+1146,2017-01-28,"Graphic Designer","F","Administration",3,"FT",96232,3697,"College",42,4,1,"white",0,NA,NA
+1147,2017-01-28,"Financial Analyst","M","Operations",1,"FT",141186,3415,"PhD",40,3,0,"african american",0,NA,NA
+1148,2017-01-28,"Manager","M","Operations",1,"FT",114943,3438,"High School",49,5,0,"white",0,NA,NA
+1149,2017-01-28,"Data Scientist","M","Administration",1,"FT",107640,3896,"PhD",37,2,0,"asian",0,NA,NA
+1150,2017-01-28,"Manager","M","Operations",1,"FT",80259,4791,"College",35,3,1,"white",0,NA,NA
+1151,2017-01-28,"Marketing Associate","F","Operations",5,"FT",86563,4415,"College",40,4,0,"white",0,NA,NA
+1152,2017-01-28,"Data Scientist","M","Operations",1,"FT",61589,3990,"Masters",29,2,0,"african american",1,NA,NA
+1153,2017-01-28,"Warehouse Associate","M","Administration",3,"FT",74829,4263,"College",34,3,1,"white",0,NA,NA
+1154,2017-01-28,"Graphic Designer","F","Administration",6,"FT",72248,3634,"Masters",30,2,0,"white",0,NA,NA
+1155,2017-01-28,"Sales Associate","M","Operations",5,"FT",91342,4516,"High School",48,3,0,"white",0,NA,NA
+1156,2017-01-28,"Sales Associate","M","Operations",6,"FT",101140,4851,"Masters",37,3,0,"white",0,NA,NA
+1157,2017-01-28,"Marketing Associate","M","Sales",2,"FT",62600,4300,"College",32,3,1,"white",0,NA,NA
+1158,2017-01-28,"Software Engineer","M","Engineering",6,"FT",65313,4685,"College",32,3,0,"white",0,NA,NA
+1159,2017-01-28,"Manager","M","Administration",5,"FT",123153,4111,"College",48,2,0,"white",0,NA,NA
+1160,2017-01-28,"IT","M","Management",6,"FT",57500,3665,"College",31,2,1,"white",0,NA,NA
+1161,2017-01-28,"Manager","M","Administration",1,"FT",115604,4098,"College",47,4,0,"african american",1,NA,NA
+1162,2017-01-28,"Software Engineer","M","Sales",1,"FT",55555,4390,"College",30,3,1,"white",0,NA,NA
+1163,2017-01-28,"Data Scientist","M","Engineering",6,"FT",124166,3875,"PhD",40,3,0,"african american",0,NA,NA
+1164,2017-01-28,"IT","M","Management",3,"FT",101050,3879,"Masters",37,2,0,"white",0,NA,NA
+1165,2017-01-28,"Data Scientist","F","Engineering",1,"FT",125828,3961,"College",48,3,0,"white",0,NA,NA
+1166,2017-01-28,"Graphic Designer","F","Management",4,"FT",75017,5576,"College",34,5,0,"white",0,NA,NA
+1167,2017-01-28,"Marketing Associate","F","Engineering",5,"FT",100415,3871,"Masters",37,4,0,"african american",0,NA,NA
+1168,2017-01-28,"Manager","F","Operations",2,"FT",145095,3889,"Masters",42,2,0,"white",0,NA,NA
+1169,2017-01-28,"Data Scientist","F","Administration",1,"FT",115641,4339,"College",47,2,0,"white",0,NA,NA
+1170,2017-01-28,"Software Engineer","M","Sales",2,"FT",160460,2930,"College",48,2,0,"white",0,NA,NA
+1171,2017-01-28,"Financial Analyst","M","Administration",3,"FT",85947,3909,"College",40,2,0,"white",0,NA,NA
+1172,2017-01-28,"Financial Analyst","F","Engineering",1,"FT",119058,4037,"College",48,2,1,"white",0,NA,NA
+1173,2017-01-28,"Warehouse Associate","F","Administration",2,"FT",106722,4044,"College",46,2,0,"asian",0,NA,NA
+1174,2017-01-28,"Financial Analyst","F","Operations",1,"FT",91129,4825,"PhD",32,1,0,"white",0,NA,NA
+1175,2017-01-28,"Graphic Designer","M","Sales",1,"FT",135512,3955,"PhD",40,5,1,"white",0,NA,NA
+1176,2017-01-28,"Financial Analyst","F","Operations",5,"FT",92891,3578,"College",42,2,1,"white",0,NA,NA
+1177,2017-01-28,"Financial Analyst","M","Administration",1,"FT",124151,3392,"College",48,2,1,"asian",0,NA,NA
+1178,2017-01-28,"Data Scientist","F","Sales",2,"FT",141005,3384,"PhD",40,2,0,"other",0,NA,NA
+1179,2017-01-28,"Manager","M","Operations",5,"FT",115742,3661,"High School",49,3,1,"white",0,NA,NA
+1180,2017-01-28,"IT","M","Sales",6,"FT",93358,3223,"College",41,4,0,"pacific islander",1,NA,NA
+1181,2017-01-28,"IT","F","Sales",5,"FT",131411,3084,"College",47,3,1,"african american",0,NA,NA
+1182,2017-01-28,"Sales Associate","F","Sales",2,"FT",96900,4157,"College",42,3,0,"african american",0,NA,NA
+1183,2017-01-28,"IT","M","Sales",2,"FT",98995,4596,"Masters",36,3,0,"white",0,NA,NA
+1184,2017-01-28,"IT","M","Sales",1,"FT",109645,5472,"College",46,1,1,"white",0,NA,NA
+1185,2017-01-28,"Financial Analyst","M","Sales",6,"FT",61609,3738,"College",31,2,0,"white",0,NA,NA
+1186,2017-01-28,"Marketing Associate","F","Engineering",2,"FT",88820,4289,"College",41,4,0,"white",0,NA,NA
+1187,2017-01-28,"Data Scientist","M","Administration",5,"FT",122352,3590,"Masters",41,3,0,"asian",0,NA,NA
+1188,2017-01-28,"Marketing Associate","F","Management",6,"FT",112489,4237,"Masters",37,3,1,"white",0,NA,NA
+1189,2017-01-28,"Software Engineer","M","Sales",5,"FT",86650,3518,"Masters",34,4,1,"white",0,NA,NA
+1190,2017-01-28,"Data Scientist","M","Operations",3,"FT",101284,4993,"College",45,4,0,"white",0,NA,NA
+1191,2017-01-28,"Manager","M","Sales",6,"FT",119794,3712,"Masters",41,2,1,"native american",1,NA,NA
+1192,2017-01-28,"Graphic Designer","M","Operations",4,"FT",96609,3044,"Masters",35,3,0,"white",0,NA,NA
+1193,2017-01-28,"Marketing Associate","F","Engineering",2,"FT",53839,3270,"College",30,3,0,"white",0,NA,NA
+1194,2017-01-28,"Financial Analyst","M","Operations",5,"FT",84725,3274,"College",38,3,0,"african american",0,NA,NA
+1195,2017-01-28,"IT","F","Administration",5,"FT",64807,3887,"College",32,3,0,"african american",0,NA,NA
+1196,2017-01-28,"IT","F","Management",2,"FT",41151,4296,"College",26,3,0,"white",0,NA,NA
+1197,2017-01-28,"Financial Analyst","F","Administration",4,"FT",114031,4510,"College",47,4,0,"white",1,NA,NA
+1198,2017-01-28,"Driver","M","Management",1,"FT",59493,3955,"High School",37,5,0,"white",0,NA,NA
+1199,2017-01-28,"Manager","F","Management",6,"FT",119893,3721,"High School",49,4,0,"african american",0,NA,NA
+1200,2017-01-28,"Manager","M","Sales",3,"FT",131980,3841,"College",48,3,1,"african american",0,NA,NA
+1201,2017-01-28,"Sales Associate","F","Sales",6,"FT",94154,3964,"High School",48,5,1,"white",0,NA,NA
+1202,2017-01-28,"Marketing Associate","F","Management",2,"FT",114906,4766,"College",48,3,1,"white",0,NA,NA
+1203,2017-01-28,"Driver","F","Management",3,"FT",115981,2661,"High School",49,3,0,"white",0,NA,NA
+1204,2017-01-28,"Data Scientist","M","Administration",2,"FT",78836,3588,"PhD",31,4,1,"white",0,NA,NA
+1205,2017-01-28,"Driver","M","Operations",1,"FT",112719,3382,"High School",49,5,0,"white",0,NA,NA
+1206,2017-01-28,"Marketing Associate","F","Sales",2,"FT",93018,2730,"Masters",34,4,1,"african american",0,NA,NA
+1207,2017-01-28,"Marketing Associate","F","Sales",2,"FT",69928,4811,"College",33,1,0,"white",0,NA,NA
+1208,2017-01-28,"Software Engineer","F","Engineering",6,"FT",104623,3791,"College",46,5,0,"white",0,NA,NA
+1209,2017-01-28,"Driver","M","Administration",1,"FT",103328,4543,"College",45,5,0,"white",0,NA,NA
+1210,2017-01-28,"Financial Analyst","M","Management",2,"FT",68643,4674,"College",33,4,1,"african american",0,NA,NA
+1211,2017-01-28,"Graphic Designer","F","Sales",1,"FT",63914,3521,"College",32,2,0,"white",0,NA,NA
+1212,2017-01-28,"Sales Associate","M","Engineering",5,"FT",67296,4780,"College",32,4,0,"white",0,NA,NA
+1213,2017-01-28,"Graphic Designer","F","Sales",3,"FT",90474,3530,"College",42,3,0,"white",0,NA,NA
+1214,2017-01-28,"Driver","F","Administration",5,"FT",60026,4605,"High School",37,2,0,"white",0,NA,NA
+1215,2017-01-28,"Marketing Associate","F","Management",6,"FT",108587,4275,"Masters",39,4,1,"white",0,NA,NA
+1216,2017-01-28,"Financial Analyst","F","Engineering",4,"FT",139042,2982,"Masters",42,4,0,"white",0,NA,NA
+1217,2017-01-28,"Driver","M","Operations",2,"FT",116803,3431,"High School",48,4,1,"white",0,NA,NA
+1218,2017-01-28,"Sales Associate","F","Operations",3,"FT",101423,3641,"Masters",37,3,0,"white",0,NA,NA
+1219,2017-01-28,"Software Engineer","M","Operations",4,"FT",86375,3368,"Masters",34,4,0,"white",0,NA,NA
+1220,2017-01-28,"IT","M","Operations",5,"FT",49449,4149,"College",29,4,0,"white",0,NA,NA
+1221,2017-01-28,"Marketing Associate","F","Sales",5,"FT",95995,4045,"College",42,1,0,"white",0,NA,NA
+1222,2017-01-28,"Software Engineer","M","Management",4,"FT",118282,3599,"College",47,3,0,"white",0,NA,NA
+1223,2017-01-28,"IT","F","Operations",6,"FT",99472,3943,"Masters",35,3,1,"white",0,NA,NA
+1224,2017-01-28,"Manager","F","Administration",4,"FT",135638,2824,"High School",50,4,1,"african american",0,NA,NA
+1225,2017-01-28,"IT","M","Operations",2,"FT",85648,2728,"College",40,4,0,"white",0,NA,NA
+1226,2017-01-28,"Data Scientist","F","Management",6,"FT",121457,4723,"PhD",39,4,1,"white",0,NA,NA
+1227,2017-01-28,"Data Scientist","F","Operations",5,"FT",114141,3746,"PhD",37,3,0,"white",0,NA,NA
+1228,2017-01-28,"Manager","M","Management",3,"FT",179726,4284,"PhD",40,4,0,"asian",0,NA,NA
+1229,2017-01-28,"Marketing Associate","F","Administration",3,"FT",107572,3107,"College",47,3,0,"african american",0,NA,NA
+1230,2017-01-28,"Sales Associate","F","Sales",2,"FT",142505,4214,"Masters",42,3,1,"white",0,NA,NA
+1231,2017-01-28,"Financial Analyst","M","Sales",1,"FT",108719,4143,"Masters",39,5,0,"african american",0,NA,NA
+1232,2017-01-28,"IT","M","Sales",2,"FT",109832,3528,"College",46,2,1,"african american",0,NA,NA
+1233,2017-01-28,"Software Engineer","M","Administration",3,"FT",127250,4263,"PhD",39,4,0,"white",0,NA,NA
+1234,2017-01-28,"Sales Associate","F","Sales",2,"FT",106279,3892,"Masters",38,4,0,"white",0,NA,NA
+1235,2017-01-28,"Software Engineer","M","Sales",2,"FT",81547,3510,"College",38,5,1,"white",0,NA,NA
+1236,2017-01-28,"Data Scientist","M","Administration",5,"FT",95798,2530,"Masters",35,3,0,"white",0,NA,NA
+1237,2017-01-28,"Manager","F","Management",2,"FT",106916,3959,"High School",49,5,0,"white",0,NA,NA
+1238,2017-01-28,"Manager","M","Administration",4,"FT",124782,4618,"Masters",41,3,0,"african american",0,NA,NA
+1239,2017-01-28,"Warehouse Associate","M","Operations",5,"FT",126256,3463,"College",48,4,0,"white",0,NA,NA
+1240,2017-01-28,"IT","F","Engineering",5,"FT",92257,3908,"College",43,1,0,"african american",0,NA,NA
+1241,2017-01-28,"Software Engineer","M","Sales",5,"FT",124660,2200,"College",48,3,0,"african american",0,NA,NA
+1242,2017-01-28,"IT","F","Engineering",5,"FT",59377,5236,"College",31,2,0,"white",1,NA,NA
+1243,2017-01-28,"Marketing Associate","F","Engineering",6,"FT",76726,4204,"College",35,1,0,"white",0,NA,NA
+1244,2017-01-28,"IT","F","Engineering",1,"FT",112502,3988,"College",46,3,0,"white",0,NA,NA
+1245,2017-01-28,"Data Scientist","M","Sales",6,"FT",128730,3247,"Masters",41,3,0,"white",0,NA,NA
+1246,2017-01-28,"Manager","M","Sales",1,"FT",136836,4070,"College",48,4,1,"white",0,NA,NA
+1247,2017-01-28,"IT","M","Engineering",3,"FT",89272,2600,"College",42,1,0,"white",0,NA,NA
+1248,2017-01-28,"Financial Analyst","F","Operations",5,"FT",101515,2251,"College",45,3,0,"white",0,NA,NA
+1249,2017-01-28,"Software Engineer","M","Operations",6,"FT",93855,4099,"Masters",34,2,0,"african american",0,NA,NA
+1250,2017-01-28,"Graphic Designer","M","Operations",5,"FT",36642,4388,"College",26,5,0,"white",0,NA,NA
+1251,2017-01-28,"Sales Associate","M","Operations",5,"FT",112604,3366,"College",46,3,0,"other",0,NA,NA
+1252,2017-01-28,"Financial Analyst","F","Engineering",6,"FT",67089,3078,"Masters",29,1,0,"white",0,NA,NA
+1253,2017-01-28,"Driver","F","Management",2,"FT",97789,3536,"College",42,4,0,"asian",0,NA,NA
+1254,2017-01-28,"Data Scientist","M","Administration",4,"FT",123333,3353,"PhD",40,3,0,"african american",0,NA,NA
+1255,2017-01-28,"IT","M","Management",5,"FT",105771,2978,"PhD",37,1,0,"white",0,NA,NA
+1256,2017-01-28,"Marketing Associate","F","Administration",1,"FT",54945,2991,"College",30,2,0,"white",0,NA,NA
+1257,2017-01-28,"Data Scientist","F","Operations",2,"FT",121239,3078,"PhD",39,2,1,"white",0,NA,NA
+1258,2017-01-28,"Data Scientist","F","Sales",2,"FT",87314,3688,"College",40,2,1,"white",0,NA,NA
+1259,2017-01-28,"Driver","F","Operations",4,"FT",124530,3647,"College",48,4,1,"white",1,NA,NA
+1260,2017-01-28,"Driver","F","Sales",5,"FT",67150,3255,"College",32,2,0,"white",0,NA,NA
+1261,2017-01-28,"Financial Analyst","M","Engineering",6,"FT",99643,3789,"College",44,3,0,"other",0,NA,NA
+1262,2017-01-28,"Sales Associate","M","Administration",2,"FT",92468,3242,"College",44,2,0,"white",0,NA,NA
+1263,2017-01-28,"Financial Analyst","F","Operations",2,"FT",63300,3655,"College",32,1,0,"white",0,NA,NA
+1264,2017-01-28,"IT","M","Operations",2,"FT",91447,3196,"Masters",35,5,0,"white",0,NA,NA
+1265,2017-01-28,"Marketing Associate","F","Operations",1,"FT",60271,3927,"College",31,2,0,"white",1,NA,NA
+1266,2017-01-28,"Warehouse Associate","M","Operations",4,"FT",45915,4765,"College",29,5,0,"white",0,NA,NA
+1267,2017-01-28,"Marketing Associate","F","Operations",2,"FT",66028,3745,"College",33,3,0,"white",0,NA,NA
+1268,2017-01-28,"Sales Associate","M","Administration",2,"FT",113031,3409,"Masters",37,3,0,"white",0,NA,NA
+1269,2017-01-28,"Software Engineer","M","Sales",5,"FT",132815,3367,"PhD",39,2,1,"white",0,NA,NA
+1270,2017-01-28,"Manager","M","Management",1,"FT",110078,1703,"High School",49,3,0,"other",1,NA,NA
+1271,2017-01-28,"Data Scientist","M","Sales",2,"FT",106918,3180,"Masters",38,3,0,"white",0,NA,NA
+1272,2017-01-28,"Software Engineer","M","Administration",2,"FT",106045,3079,"College",46,4,0,"white",0,NA,NA
+1273,2017-01-28,"Warehouse Associate","M","Operations",6,"FT",107479,2051,"High School",49,3,0,"white",0,NA,NA
+1274,2017-01-28,"Software Engineer","M","Sales",2,"FT",109606,2193,"Masters",39,3,0,"other",0,NA,NA
+1275,2017-01-28,"Marketing Associate","F","Engineering",5,"FT",91300,3680,"College",45,3,0,"african american",0,NA,NA
+1276,2017-01-28,"Sales Associate","M","Management",5,"FT",88195,2375,"High School",45,3,0,"african american",0,NA,NA
+1277,2017-01-28,"Financial Analyst","F","Operations",2,"FT",90999,2963,"Masters",34,2,0,"white",0,NA,NA
+1278,2017-01-28,"Sales Associate","F","Operations",1,"FT",86795,3453,"College",40,1,0,"white",1,NA,NA
+1279,2017-01-28,"IT","F","Sales",5,"FT",110627,2041,"College",46,3,1,"white",0,NA,NA
+1280,2017-01-28,"Marketing Associate","F","Sales",1,"FT",97696,3888,"College",42,3,0,"african american",0,NA,NA
+1281,2017-01-28,"IT","M","Sales",5,"FT",92950,2125,"Masters",34,2,0,"white",0,NA,NA
+1282,2017-01-28,"Sales Associate","M","Operations",4,"FT",82164,2611,"High School",44,4,0,"white",0,NA,NA
+1283,2017-01-28,"Software Engineer","M","Management",3,"FT",119069,2788,"College",48,1,0,"other",0,NA,NA
+1284,2017-01-28,"Marketing Associate","F","Engineering",2,"FT",62738,2656,"College",32,3,1,"african american",0,NA,NA
+1285,2017-01-28,"IT","F","Administration",2,"FT",112169,2763,"College",46,3,0,"white",0,NA,NA
+1286,2017-01-28,"Manager","M","Administration",6,"FT",120574,2683,"High School",49,3,0,"african american",0,NA,NA
+1287,2017-01-28,"Data Scientist","M","Sales",1,"FT",97311,3083,"College",42,3,0,"african american",0,NA,NA
+1288,2017-01-28,"Marketing Associate","F","Operations",2,"FT",98796,3042,"College",43,5,0,"white",0,NA,NA
+1289,2017-01-28,"Sales Associate","M","Administration",2,"FT",102593,1823,"Masters",38,2,0,"white",0,NA,NA
+1290,2017-01-28,"Financial Analyst","F","Administration",2,"FT",96665,2645,"College",42,2,0,"white",0,NA,NA
+1291,2017-01-28,"Graphic Designer","F","Engineering",2,"FT",91030,3318,"Masters",34,2,0,"white",0,NA,NA
+1292,2017-01-28,"IT","F","Administration",2,"FT",106945,2041,"Masters",38,1,0,"white",1,NA,NA
+1293,2017-01-28,"Graphic Designer","F","Administration",2,"FT",81545,3418,"College",38,5,0,"asian",0,NA,NA
+1294,2017-01-28,"Marketing Associate","F","Administration",5,"FT",80789,1884,"Masters",32,3,0,"white",0,NA,NA
+1295,2017-01-28,"Marketing Associate","F","Administration",6,"FT",85253,2777,"College",38,3,0,"white",0,NA,NA
+1296,2017-01-28,"Marketing Associate","F","Administration",2,"FT",62644,3270,"College",32,2,0,"white",0,NA,NA
+1297,2017-01-28,"Data Scientist","M","Sales",1,"FT",108977,3567,"Masters",39,3,0,"white",0,NA,NA
+1298,2017-01-28,"Financial Analyst","M","Operations",5,"FT",92347,2724,"College",43,4,0,"white",0,NA,NA
+1299,2017-01-28,"Financial Analyst","M","Administration",6,"FT",97376,2225,"College",42,3,0,"white",0,NA,NA
+1300,2017-01-28,"Financial Analyst","M","Sales",6,"FT",123108,2244,"Masters",41,4,0,"white",0,NA,NA
