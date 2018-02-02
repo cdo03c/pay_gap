@@ -136,7 +136,7 @@ summary_job <- summarise(summary_job, meanTotalPay = mean(totalPay, na.rm = TRUE
 ```
 ## Gender Pay Gap Summary
 
-For the past year the median annual pay for male employees was `r paste('$',summary_base$M[3], sep = '')` whereas for female employees it was `r paste('$',summary_base$F[3], sep = '')`, which results in a median gender pay gap of `r round((summary_base$M[3]-summary_base$F[3])/summary_base$F[3]*100,2)`%.
+For the past year the median annual pay for male employees was `r paste('$',summary_base$M[3], sep = '')` (`r paste('$',summary_base$M[4], sep = '')` mean) whereas for female employees it was `r paste('$',summary_base$F[3], sep = '')` (`r paste('$',summary_base$F[4], sep = '')` mean), which results in a median gender pay gap of `r round((summary_base$M[3]-summary_base$F[3])/summary_base$F[3]*100,2)`%.
 
 ```{r}
 ggplot(data = data, aes(colour = gender)) + 
@@ -151,6 +151,18 @@ ggplot(data = data, aes(colour = gender)) +
   labs(title="Histogram of Base Pay") +
   labs(x="Annual Salary in USD", y="Count")
 ```
+
+```{r}
+#Test for assumption of normality in the base pay distributions for male and female employees
+shapiro.m = shapiro.test(data[data$gender == 'Male',]$basePay)
+shapiro.f = shapiro.test(data[data$gender == 'Female',]$basePay)
+
+#Tests for differences in the populations for make and female base pay.
+basepay.t = t.test((data[data$gender == 'Male',]$basePay), (data[data$gender == 'Female',]$basePay))
+basepay.wt = wilcox.test((data[data$gender == 'Male',]$basePay), (data[data$gender == 'Female',]$basePay), conf.int = T, correct = F)
+```
+We can safely reject the null hypothesis that there is no statistically significant difference in base pay between male and female employees due to both the Welch T-Test (t = `r basepay.t$statistic`, df = `r basepay.t$parameter`, p-value = `r basepay.t$p.value`) and the Wilcoxon-Mann-Whitney Test (W = `r basepay.wt$statistic`, p-value = `r basepay.wt$p.value`) despite the fact that both male and female base pay are not normally distributed (Shapiro-Wilk Test as p-value < 0.05 Male: `r shapiro.m$p.value` and Female: `r shapiro.m$p.value`)
+
 
 Over the same time period the median total pay, which includes bonues, for male employees was `r paste('$',summary_total$M[3], sep = '')` whereas for female employees it was `r paste('$',summary_total$F[3], sep = '')`, which results in a median gender pay gap of `r round((summary_total$M[3]-summary_total$F[3])/summary_total$F[3]*100,2)`%.
 
