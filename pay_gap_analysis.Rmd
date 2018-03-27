@@ -22,7 +22,9 @@ rm(list=ls())
 library(plyr)
 library(ggplot2)
 library(knitr)
-library(xlsx)
+#Sys.setenv(JAVA_HOME='\\Users\\obrien\\Downloads\\Java\\jdk1.7.0_51\\jre')
+#library(rJava)
+#library(xlsx)
 library(stargazer)
 library(broom)
 library(dplyr)
@@ -57,9 +59,14 @@ data <- read.csv("./sample_payroll_data2.csv")
 #Modify the levels in the Gender column
 levels(data$gender) = c('Female', 'Male')
 
-#Convert disabilty and veteran columns from numeric to factor
+#Convert disabilty, veteran, and tenure columns from numeric to factor
 data$disability = as.factor(data$disability)
 data$veteran = as.factor(data$veteran)
+data$tenure = as.factor(data$tenure)
+
+#Convert education and performance evaluation to ordered factors
+data$education = ordered(data$education, levels = c("High School", "College", "Masters", "PhD"))
+data$perfEval = factor(data$perfEval, levels = c(1,2,3,4,5), ordered = T)
 
 #Convert the Date column to a date type
 data$Date = as.Date(data$Date, format = )
@@ -102,6 +109,7 @@ something we are passionate about addressing.  Steps will be taken, where possib
 
 #Gender Balance
 ```{r}
+
 ggplot(data, aes(gender)) +
   geom_bar() +
   labs(title = "Employees by Gender") +
@@ -179,3 +187,60 @@ ggplot(data = data, aes(colour = gender)) +
   labs(title="Histogram of Total Pay") +
   labs(x="Annual Salary in USD", y="Count")
 ```
+
+```{r}
+ggplot(data = data, aes(x = age, y = totalPay, colour = gender)) + 
+  geom_point(shape = 1, fill = "red", alpha = 0.4) +
+  geom_smooth(method=lm) +
+  scale_colour_manual(name="Gender", values=c("red","yellow"), labels=c("Female","Male")) +
+  labs(title="Gender Distribution of Total Pay Versus Age") +
+  labs(x="Age", y="Total Pay (USD)")
+```
+
+```{r}
+ggplot() + 
+  geom_boxplot(data = data,aes(tenure, totalPay, fill = gender)) +
+  labs(title="Gender Distribution of Total Pay Versus Tenure") +
+  labs(x="Tenure Categories", y="Total Pay (USD)")
+```
+
+```{r}
+ggplot() + 
+  geom_boxplot(data = data,aes(education, basePay, fill = gender)) +
+  labs(title="Gender Distribution of Base Pay Versus Education") +
+  labs(x="Education Categories", y="Base Pay (USD)")
+```
+
+```{r}
+ggplot() + 
+  geom_boxplot(data = data,aes(perfEval, basePay, fill = gender)) +
+  labs(title="Gender Distribution of Base Pay Versus Performance Evaluation") +
+  labs(x="Performance Evaluation Categories", y="Base Pay (USD)")
+```
+
+
+```{r}
+ggplot() + 
+  geom_boxplot(data = data,aes(disability, basePay, fill = gender)) +
+  labs(title="Gender Distribution of Base Pay Versus Disability") +
+  labs(x="Disability Categories (1 = disability)", y="Base Pay (USD)")
+```
+
+
+```{r}
+ggplot() + 
+  geom_boxplot(data = data,aes(raceEthnicity, basePay, fill = gender)) +
+  labs(title="Gender Distribution of Base Pay Versus Race/Etnicity") +
+  labs(x="Race/Ethnicity Categories", y="Base Pay (USD)")
+```
+
+
+```{r}
+ggplot() + 
+  geom_boxplot(data = data,aes(veteran, basePay, fill = gender)) +
+  labs(title="Gender Distribution of Base Pay Versus Veteran Status") +
+  labs(x="Veteran Status (1 = veteran)", y="Base Pay (USD)")
+```
+
+### TWO VARIABLE PLOTS ###
+#Top 10 Titles Box plots by gender
